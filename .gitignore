@@ -1,0 +1,23 @@
+# Build output: printed HTML, the Edge profile the PDF print uses, contact
+# sheets, video sheets and the split STL bodies the renders are made from.
+build/
+__pycache__/
+.pytest_cache/
+
+# Video is published on YouTube, not here: the raw assembly recording is
+# 10.6 GB and GitHub rejects any file over 100 MB. The stills the guide uses
+# are under Photos/frames/. The exception is the rendered assembly animation
+# (scripts/animate_assembly.py): 3 MB in all, committed under Video_Tutorials/.
+*.mp4
+*.avi
+*.mov
+*.gif
+!Video_Tutorials/**/*.mp4
+!Video_Tutorials/*.gif
+
+# OS / editor cruft
+Thumbs.db
+~$*
+.DS_Store
+.vscode/
+.idea/

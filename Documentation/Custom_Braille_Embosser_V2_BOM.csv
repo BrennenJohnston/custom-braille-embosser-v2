@@ -1,0 +1,50 @@
+Device:,"Custom Braille Embosser, Version 2",,,,,,,,,,,,
+Version:,V2.0.0,,,,,,,,,,,,
+Last Updated:,2026-10-06,,,,,,,,,,,,
+,,,,,,,,Total filament (g),,Unit Cost,Total Estimated Cost,Build Cost,
+,,,,,,,,225.18 (nine parts and one cylinder pair),,$0.00,$3.60 (filament at $15.99/kg),,
+ID,Commercial Parts,,,,,,,,,$0.00,$0.00,,
+,Part,Description,,Manufacturer,Supplier,QTY / Device,QTY / PKG,PKGs,$ / PKG,$ / Device,Total Estimated Cost,,Link
+,(none),"This device has no off-the-shelf parts, fasteners, springs or electronics.",,,,0,0,0,$0.00,$0.00,$0.00,,
+,,,,,,,,,,,,,
+,3D Printed Parts,,,,,,,188.22 (the X1C plate; the parts sliced one at a time sum to 190.88),,$3.01,$3.01,,
+,Part,Description,Filament Type,Filament,Color,QTY / Device,Mass (g) / Part,Total Mass,$ / kg,$ / Device,Total Estimated Cost,,Link
+P01,Base,"Body_Base_v2.stl. The housing with the grip built in; holds the two rollers upright and side by side. Arrows on its right-hand side mark the card's direction and which way up.",PLA or PETG,Any,Any,1,88.90,88.90,$15.99,$1.42,$1.42,,
+P02,Lid,"Body_Top_v2.stl. Snaps onto the Base; its post is the top axle of Roller B and its large hole lets the Knob through.",PLA or PETG,Any,Any,1,14.70,14.70,$15.99,$0.24,$0.24,,
+P03,Top Gear A,"A1_Gear_v2.stl. 24-tooth herringbone gear with a 14 x 14 mm peg; keyed pocket for the Knob in its hub face. Goes on the top end of Cylinder A.",PLA or PETG,Any,Any,1,7.45,7.45,$15.99,$0.12,$0.12,,
+P04,Bottom Gear A,"A2_Gear_v2.stl. 24-tooth gear with an 18 x 10 mm peg; wide pocket for the Base's larger post. Goes on the bottom end of Cylinder A.",PLA or PETG,Any,Any,1,7.64,7.64,$15.99,$0.12,$0.12,,
+P05,Top Gear B,"B1_Gear_v2.stl. 24-tooth gear with a 16 x 12 mm peg; small pocket for the Lid's post. Goes on the top end of Cylinder B.",PLA or PETG,Any,Any,1,7.71,7.71,$15.99,$0.12,$0.12,,
+P06,Bottom Gear B,"B2_Gear_v2.stl. 24-tooth gear with a 20 x 8 mm peg; small pocket for the Base's smaller post. Goes on the bottom end of Cylinder B.",PLA or PETG,Any,Any,1,7.47,7.47,$15.99,$0.12,$0.12,,
+P07,Knob,"Handle_Connector_v2.stl. Keys into Top Gear A through the Lid; the Handle snaps onto its tab.",PLA or PETG,Any,Any,1,5.29,5.29,$15.99,$0.08,$0.08,,
+P08,Handle,"Handle_v2.stl. The crank; its cup snaps over the Knob. A raised arrow on the grip shows the turning direction.",PLA or PETG,Any,Any,1,25.63,25.63,$15.99,$0.41,$0.41,,
+P09,Push-out Plate (optional),"Remover_Tool_v2_(optional).stl. A plate with three pegs; the Base is set onto it to push the rollers out.",PLA or PETG,Any,Any,1,26.09,26.09,$15.99,$0.42,$0.42,,
+,,,,,,,,,,,,,
+,Braille Cylinders (generated and printed separately),,,,,,,36.96 (the Washington example pair on the X1C),,$0.59,$0.59,,
+,Part,Description,Filament Type,Filament,Color,QTY / Device,Mass (g) / Part,Total Mass,$ / kg,$ / Device,Total Estimated Cost,,Link
+P10,Cylinder A,"The raised-arrow cylinder, generated from your text at the web app with Version 2 chosen under Embosser setup. 30.8 mm across, 54 mm tall. Print at 0.12 mm or finer, 3 walls, 15 % infill, Arachne walls.",PLA,Any,Any,1,18.60,18.60,$15.99,$0.30,$0.30,,https://braille-cylinder-stl-generator.vercel.app
+P11,Cylinder B,"The sunken-arrow cylinder, generated with Cylinder A at the same card thickness (0.3 mm or 0.4 mm). Same size and print settings as Cylinder A.",PLA,Any,Any,1,18.69,18.69,$15.99,$0.30,$0.30,,https://braille-cylinder-stl-generator.vercel.app
+,,,,,,,,,,,,,
+,Custom PCB,,,,,,,,,$0.00,$0.00,,
+,Part,Description,,Manufacturer,Supplier,QTY / Device,QTY / PKG,PKGs,$ / PKG,$ / Device,Total Estimated Cost,,Link
+,(none),No PCB or electronics in this device.,,,,0,0,0,$0.00,$0.00,$0.00,,
+,,,,,,,,,,,,,
+,Consumables,,,,,,,,,,,,
+,Part,Description,,Manufacturer,Supplier,QTY / Device,QTY / PKG,PKGs,$ / PKG,$ / Device,Total Estimated Cost,,Link
+C01,Card stock 0.3 mm,"0.3 mm (about 110 to 130 lb, 250 to 300 gsm) card stock, for cylinders generated at the 0.3 mm setting.",,Any office-supply or craft store,Any,1 card,100,1,$15.00,$0.15,$15.00,,
+C02,Card stock 0.4 mm,"0.4 mm (about 150 lb, 350 gsm) card stock, for cylinders generated at the 0.4 mm setting, the one that suits most business cards.",,Any office-supply or craft store,Any,1 card,100,1,$20.00,$0.20,$20.00,,
+,,,,,,,,,,,,,
+,Tools,,,,,,,,,,,,
+,Tool,Description,,Manufacturer,Supplier,,,,,,,,Link
+T01,FDM 3D printer,"Bambu Lab X1C project provided with all nine parts on one plate (about 188 x 184 mm of bed). Any FDM printer whose bed takes the Base (100 x 70 mm footprint, 96 mm tall) will do, printing the parts in batches.",,Bambu Lab (or any),Any,,,,,,,,
+T02,Slicer,Bambu Studio for the provided project; any slicer that imports STL for the parts.,,Bambu Lab / OrcaSlicer / any,Any,,,,,,,,
+T03,Soft cloth,For cleaning the cylinders after embossing.,,Any,Any,,,,,,,,
+,,,,,,,,,,,,,
+,PPE,,,,,,,,,,,,
+,Item,Description,,Manufacturer,Supplier,,,,,,,,Link
+,Safety glasses,Recommended when removing parts from the printer build plate.,,Any,Any,,,,,,,,
+,,,,,,,,,,,,,
+,Alternatives,,,,,,,,,,,,
+,Part,Description,,Manufacturer,Supplier,QTY / Device,QTY / PKG,PKGs,$ / PKG,$ / Device,Total Estimated Cost,,Link
+A01,One-piece rollers,"The web app's Simplified gears option prints each cylinder with its two gears fused on, replacing P03 to P06 for that cylinder pair.",,Generated at the web app,Any,1 pair,1,1,$0.00,$0.00,$0.00,,https://braille-cylinder-stl-generator.vercel.app
+A02,PETG instead of PLA,PETG is a little tougher; either material works for the nine parts.,,Any,Any,1,1,1,$30.00,$30.00,$30.00,,
+A03,Rubber feet (optional),Stick-on rubber feet under the Base for desk grip.,,Any,Any,4,8,1,$5.00,$2.50,$5.00,,

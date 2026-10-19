@@ -1,0 +1,21 @@
+{
+  "note": "Verbatim copies of the two Embosser Version 2 MakerWorld uploads from the OpenSCAD repository's makerworld/ folder. Never edit these files here; refresh them from upstream and rewrite this record. The fixed-gear file is generated upstream by scripts/build_makerworld_fixed_gears.py.",
+  "upstream_repository": "https://github.com/BrennenJohnston/braille-cylinder-stl-generator-openscad",
+  "upstream_commit": "705fe9ac835401c2cb7576829ec75a2dd74ac401",
+  "upstream_describe": "v2.12.0",
+  "upstream_commit_date": "2026-10-09",
+  "vendored": "2026-10-19",
+  "license": "PolyForm Noncommercial 1.0.0",
+  "files": {
+    "Braille_Cylinder_STL_Generator_MakerWorld_v2.scad": {
+      "upstream_path": "makerworld/Braille_Cylinder_STL_Generator_MakerWorld_v2.scad",
+      "sha256": "8c4539b7b92e38a82262a08a7cd414de26117fb34bcbde19973bc79c3b9efd33",
+      "bytes": 183267
+    },
+    "Braille_Cylinder_STL_Generator_MakerWorld_v2_Fixed_Gears.scad": {
+      "upstream_path": "makerworld/Braille_Cylinder_STL_Generator_MakerWorld_v2_Fixed_Gears.scad",
+      "sha256": "6f601658c62858a0dde7087626233199e5cbf7c2a3c7109d10829fab9d602644",
+      "bytes": 3163002
+    }
+  }
+}

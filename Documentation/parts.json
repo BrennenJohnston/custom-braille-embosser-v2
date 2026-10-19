@@ -1,0 +1,229 @@
+[
+  {
+    "id": "base",
+    "name": "Base",
+    "file": "Base.stl",
+    "old_names": [
+      "Body_Base_v2",
+      "Body"
+    ],
+    "count": 1,
+    "size_mm": [
+      100.35,
+      70.35,
+      96.3
+    ],
+    "volume_mm3": 151341,
+    "colour_in_photos": "grey",
+    "master_sha256": "4597d68d124f20f6577694a4850606f0f5300e5a159491b76dfed1033958c317",
+    "what_it_does": "",
+    "feel": ""
+  },
+  {
+    "id": "lid",
+    "name": "Lid",
+    "file": "Lid.stl",
+    "old_names": [
+      "Body_Top_v2",
+      "Top"
+    ],
+    "count": 1,
+    "size_mm": [
+      80.35,
+      50.35,
+      15.0
+    ],
+    "volume_mm3": 16751,
+    "colour_in_photos": "cyan",
+    "master_sha256": "5fc1583ac841f1345edb267900ca914852c8df6f7e1e97adbe6643b6f1a35bd4",
+    "what_it_does": "",
+    "feel": ""
+  },
+  {
+    "id": "cylinder-a",
+    "name": "Cylinder A",
+    "file": null,
+    "source": "https://braille-cylinder-stl-generator.vercel.app",
+    "old_names": [
+      "Embossing Cylinder",
+      "Embossing Plate",
+      "positive plate",
+      "the raised-arrow cylinder"
+    ],
+    "count": 1,
+    "size_mm": [
+      30.8,
+      30.8,
+      54.0
+    ],
+    "volume_mm3": 29038,
+    "colour_in_photos": "white",
+    "master_sha256": null,
+    "what_it_does": "",
+    "feel": ""
+  },
+  {
+    "id": "cylinder-b",
+    "name": "Cylinder B",
+    "file": null,
+    "source": "https://braille-cylinder-stl-generator.vercel.app",
+    "old_names": [
+      "Counter Cylinder",
+      "Universal Counter Plate",
+      "negative plate",
+      "the sunken-arrow cylinder"
+    ],
+    "count": 1,
+    "size_mm": [
+      30.8,
+      30.8,
+      54.0
+    ],
+    "volume_mm3": 29645,
+    "colour_in_photos": "white",
+    "master_sha256": null,
+    "what_it_does": "",
+    "feel": ""
+  },
+  {
+    "id": "top-gear-a",
+    "name": "Top Gear A",
+    "file": "Top_Gear_A.stl",
+    "old_names": [
+      "A1_Gear_v2",
+      "A1"
+    ],
+    "count": 1,
+    "size_mm": [
+      32.22,
+      32.22,
+      25.0
+    ],
+    "volume_mm3": 8165,
+    "colour_in_photos": "pink",
+    "master_sha256": "54f565f3070aec0e2ff41e3aac53332320477aa9fa486ea5749257daf50d192e",
+    "what_it_does": "",
+    "feel": ""
+  },
+  {
+    "id": "bottom-gear-a",
+    "name": "Bottom Gear A",
+    "file": "Bottom_Gear_A.stl",
+    "old_names": [
+      "A2_Gear_v2",
+      "A2"
+    ],
+    "count": 1,
+    "size_mm": [
+      32.22,
+      32.22,
+      25.0
+    ],
+    "volume_mm3": 8298,
+    "colour_in_photos": "pink",
+    "master_sha256": "084f0661afdfbe2a7712a194531b4d22d0aaf4f616d64ee24caba383c5f906eb",
+    "what_it_does": "",
+    "feel": ""
+  },
+  {
+    "id": "top-gear-b",
+    "name": "Top Gear B",
+    "file": "Top_Gear_B.stl",
+    "old_names": [
+      "B1_Gear_v2",
+      "B1"
+    ],
+    "count": 1,
+    "size_mm": [
+      32.22,
+      32.22,
+      25.0
+    ],
+    "volume_mm3": 9070,
+    "colour_in_photos": "pink",
+    "master_sha256": "3276743d023591161ba58dc143cc1805d0b08f4bd6ffc003f22d4f0f2f7dd774",
+    "what_it_does": "",
+    "feel": ""
+  },
+  {
+    "id": "bottom-gear-b",
+    "name": "Bottom Gear B",
+    "file": "Bottom_Gear_B.stl",
+    "old_names": [
+      "B2_Gear_v2",
+      "B2"
+    ],
+    "count": 1,
+    "size_mm": [
+      32.22,
+      32.22,
+      25.0
+    ],
+    "volume_mm3": 8721,
+    "colour_in_photos": "pink",
+    "master_sha256": "c2dcd7acd177c88e9a6a224c3a06924b3bb1ff23f9756bdb008b0c6fc02fde7c",
+    "what_it_does": "",
+    "feel": ""
+  },
+  {
+    "id": "knob",
+    "name": "Knob",
+    "file": "Knob.stl",
+    "old_names": [
+      "Handle_Connector_v2",
+      "Connector"
+    ],
+    "count": 1,
+    "size_mm": [
+      26.75,
+      26.73,
+      27.4
+    ],
+    "volume_mm3": 7157,
+    "colour_in_photos": "yellow",
+    "master_sha256": "0c1b159a800123ffa2a05a02a0e58a28755caf9211dadf921cefcd51a64b9cf7",
+    "what_it_does": "",
+    "feel": ""
+  },
+  {
+    "id": "handle",
+    "name": "Handle",
+    "file": "Handle.stl",
+    "old_names": [
+      "Handle_v2",
+      "Handle Grip"
+    ],
+    "count": 1,
+    "size_mm": [
+      29.0,
+      77.47,
+      52.0
+    ],
+    "volume_mm3": 52164,
+    "colour_in_photos": "yellow",
+    "master_sha256": "54136078d6be06577ca7149caceb833f19c3f2060e5097566991065fa977686d",
+    "what_it_does": "",
+    "feel": ""
+  },
+  {
+    "id": "push-out-plate",
+    "name": "Push-out Plate",
+    "file": "Push-out_Plate_(optional).stl",
+    "old_names": [
+      "Remover_Tool_v2_(optional)",
+      "Gear Remover"
+    ],
+    "count": 1,
+    "size_mm": [
+      109.96,
+      80.0,
+      35.0
+    ],
+    "volume_mm3": 35856,
+    "colour_in_photos": "white",
+    "master_sha256": "ea19354de82e357ad7469e2e5a2c959e3e2652a41cdfacac9e5fa78c8bc0bb77",
+    "what_it_does": "",
+    "feel": "",
+    "optional": true
+  }
+]

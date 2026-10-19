@@ -1,0 +1,15 @@
+{
+  "pdf": "Documentation/Custom_Braille_Embosser_V2_Design_Rationale.pdf",
+  "pdf_sha256": "4c558f17c5d2c01fb85f47ef369512bd9e0971cc3ba8a22c06c28dd318171f35",
+  "inputs": {
+    "Documentation/Custom_Braille_Embosser_V2_Design_Rationale.md": "1d780e4350dcc9a2eaa317ab3df7abaa44a1a1e97c0a67ee987364a5b65fa705",
+    "Photos/renders/render-exploded.png": "b9c8c5fb9780a4167f1c652c0c433459a59ad7f994b6b64f8194a75cd404a461",
+    "scripts/build_assembly_guide_pdf.py": "1636d2e0f9112f644997b6d2fc5d62a9f913bc044f702f6b5c6096c58c7b9fdf"
+  },
+  "pages": 10,
+  "bookmarks": 23,
+  "links": 25,
+  "pictures": 1,
+  "captions": 1,
+  "producer": "Skia/PDF m155"
+}

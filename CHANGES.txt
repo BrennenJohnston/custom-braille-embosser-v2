@@ -1,0 +1,14 @@
+Version 2.0.0 | in preparation (started 2026-10-05)
+ - Second design of the Custom Braille Embosser. Nine 3D-printed parts plus two generated cylinders; no fasteners, springs, glue or electronics.
+ - The cylinders are 30.8 mm across and 54 mm tall (Version 1: 52 mm), with keyed through-holes at each end: each of the four gears has a differently shaped peg, so a gear fits only where it belongs.
+ - The gears are separate parts again (A1, A2, B1, B2 in the design files; Top Gear A, Bottom Gear A, Top Gear B, Bottom Gear B in the guide), 24 herringbone teeth, with a cross on both top gears to mark the top.
+ - The Base is one part with the grip built in (Version 1's two-part grip extension is gone). A long arrow on its right-hand side shows the card's direction of travel and a large arrow beside the slit shows which way the card's printed top row goes.
+ - The Knob seats flush in Top Gear A; the Lid snaps onto the Base; the Handle snaps onto the Knob and its home position (grip level along the Base, pointing right) means the cylinders' indicator triangles are nested.
+ - An optional Push-out Plate lifts the cylinders out of the Base.
+ - Printing: the nine parts need only a 0.2 mm default profile with supports off. Sliced Bambu Lab X1C projects are included, with measured print times and filament.
+ - Documentation: three editions of the assembly guide - a short Maker Guide, an Assembly Guide By Touch with a By touch block in every step, and a Visual Assembly Guide without words - plus a User Guide, every picture described, each printed as a tagged PDF from its Markdown. A rendered assembly animation (one clip a step and the whole build) made from the part files, and the Washington example cylinder pair for test prints.
+ - A tactile assembly map: six printed plates, one line of shapes each, with the outline of every mating face (keyholes, pegs, bumps, dents, notches, studs) true to size, in 0.75 mm steps (a dial, 0.5 to 1 mm), each numbered with a raised numeral, an edge-notch tally and, as a toggle, its number in braille on a sloped block joined to the shape by a raised line, with a key document. Cut from the part files by scripts/derive_tactile_assembly_map.py.
+ - The Embosser Version 2 OpenSCAD cylinder generator vendored under Build_Files/3D_Printing_Files/Embossing_Plates_Customizer/ as the offline alternative to the web app, with a Device Summary and a Design Rationale.
+ - The same generator as two MakerWorld customizer files, standard cylinders and fixed gears, under Build_Files/3D_Printing_Files/Embossing_Plates_Customizer/MakerWorld_Customizer/; its settings follow the web app's layout.
+ - Two generator guides with marked screenshots: the web generator step by step, and the offline OpenSCAD file with a braille translator for the text.
+ - Documentation template: Makers Making Change OpenAT, as in Version 1.

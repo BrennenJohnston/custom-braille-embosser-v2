@@ -1,0 +1,14 @@
+{
+  "pdf": "Documentation/Step_2_Guide_Option_4_Custom_Braille_Embosser_V2_Tactile_Assembly_Map_Key.pdf",
+  "pdf_sha256": "7d1d96067a85dbdddae6a0b82ea523d4d662b06d037de4c70d48cb37bb5d8d19",
+  "inputs": {
+    "Documentation/Step_2_Guide_Option_4_Custom_Braille_Embosser_V2_Tactile_Assembly_Map_Key.md": "e5bc0a6ebf6f2d6b29353d776f99a393c0174f404ec48cd0bfd27b590ce033b5",
+    "scripts/build_assembly_guide_pdf.py": "1636d2e0f9112f644997b6d2fc5d62a9f913bc044f702f6b5c6096c58c7b9fdf"
+  },
+  "pages": 5,
+  "bookmarks": 6,
+  "links": 5,
+  "pictures": 0,
+  "captions": 0,
+  "producer": "Skia/PDF m155"
+}

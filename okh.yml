@@ -1,0 +1,111 @@
+# Open Know-How (OKH) Manifest for the Custom Braille Embosser, Version 2
+# Compliant with the Open Know-How Specification (Internet of Production Alliance, 2022)
+# Spec: https://standards.internetofproduction.org/pub/okh
+# Generator reference: https://okh.makernet.org/form
+
+okhv: OKH-LOSHv1.0
+
+name: Custom Braille Embosser, Version 2
+repo: https://github.com/BrennenJohnston/custom-braille-embosser-v2
+version: 2.0.0
+license:
+  hardware: CERN-OHL-W-2.0
+  documentation: CC-BY-SA-4.0
+  software: GPL-3.0-or-later
+licensor:
+  name: Brennen Johnston
+  contact:
+    name: Brennen Johnston
+documentation-language: en
+function: |
+  A fully 3D-printed, hand-turned braille embosser for business-card stock. Two
+  interchangeable cylinders generated from the user's text, one carrying the
+  raised dots and one the matching dimples, stand side by side in a printed Base;
+  a card dropped into the slit at the back is rolled between them and out of the
+  window at the front with the braille pressed into it. Each gear has a
+  differently shaped peg and each cylinder end a matching keyed hole, so the parts
+  go together one way only, and the row-indicator arrows on the cylinders can be
+  found by touch, so a blind user can assemble and use it unaided. No off-the-shelf
+  parts, fasteners, springs or electronics.
+
+documentation-readiness-level: ODRL-3*
+technology-readiness-level: OTRL-5
+
+manufacturing-instructions: ./Documentation/Step_2_Guide_Option_3_Custom_Braille_Embosser_V2_Maker_Guide.pdf
+user-manual: ./Documentation/Step_3_Guide_Custom_Braille_Embosser_V2_User_Guide.pdf
+bom: ./Documentation/Custom_Braille_Embosser_V2_BOM.csv
+
+design-files:
+  - path: ./Build_Files/3D_Printing_Files/Assembly_Reference/Braille_Embosser_V2_Assembled_Example.stl
+    title: Every part in its assembled position, one STL (reference, not a part to print). No CAD source is published for Version 2.
+
+making-instructions:
+  - path: ./Documentation/Step_2_Guide_Option_3_Custom_Braille_Embosser_V2_Maker_Guide.md
+    title: Maker guide (Markdown; the short edition)
+  - path: ./Documentation/Step_2_Guide_Option_3_Custom_Braille_Embosser_V2_Maker_Guide.pdf
+    title: Maker guide (tagged PDF)
+  - path: ./Documentation/Step_2_Guide_Option_2_Custom_Braille_Embosser_V2_Assembly_Guide_By_Touch.md
+    title: Assembly guide by touch (Markdown, the edition for screen readers and building without sight)
+  - path: ./Documentation/Step_2_Guide_Option_2_Custom_Braille_Embosser_V2_Assembly_Guide_By_Touch.pdf
+    title: Assembly guide by touch (tagged PDF)
+  - path: ./Documentation/Step_2_Guide_Option_1_Custom_Braille_Embosser_V2_Visual_Assembly_Guide.md
+    title: Visual assembly guide (pictures only)
+  - path: ./Documentation/Custom_Braille_Embosser_V2_Device_Summary.md
+    title: Device summary
+  - path: ./Documentation/Custom_Braille_Embosser_V2_Design_Rationale.md
+    title: Design rationale
+  - path: ./Documentation/Step_2_Guide_Option_4_Custom_Braille_Embosser_V2_Tactile_Assembly_Map_Key.md
+    title: Tactile assembly map key (the numbers on the printed tactile assembly map)
+  - path: ./Documentation/Step_1_Guide_Option_1_Custom_Braille_Embosser_V2_Web_Generator_Guide.md
+    title: Web generator guide (making the cylinders in the browser, with screenshots)
+  - path: ./Documentation/Step_1_Guide_Option_2_Custom_Braille_Embosser_V2_OpenSCAD_Generator_Guide.md
+    title: OpenSCAD generator guide (the offline file and a braille translator)
+
+operation-instructions:
+  - path: ./Documentation/Step_3_Guide_Custom_Braille_Embosser_V2_User_Guide.md
+    title: User guide (Markdown)
+  - path: ./Documentation/Step_3_Guide_Custom_Braille_Embosser_V2_User_Guide.pdf
+    title: User guide (tagged PDF)
+  - path: https://youtu.be/77iXvJbkXh4
+    title: "Version 1 video, using the completed embosser (the embossing action is the same)"
+
+manufacturing-files:
+  - path: ./Build_Files/3D_Printing_Files/STL/
+    title: The nine printed parts (STL)
+  - path: ./Build_Files/3D_Printing_Files/Print_Profiles/X1C/
+    title: Sliced Bambu Lab X1C projects - the nine parts, the example cylinders, the tactile assembly map
+  - path: ./Build_Files/3D_Printing_Files/Tactile_Assembly_Map/STL/
+    title: The tactile assembly map's six plates (STL)
+  - path: https://braille-cylinder-stl-generator.vercel.app
+    title: Web app that generates the two braille cylinders from text (choose Version 2 under Embosser setup)
+
+image: ./Photos/Braille_Embosser_V2.jpg
+
+keywords:
+  - assistive-technology
+  - braille
+  - braille-embosser
+  - blindness
+  - vision-impairment
+  - 3d-printable
+  - no-fasteners
+  - openat
+  - hand-operated
+  - tactile
+
+attestation:
+  - This device has been built and used by the designer; no third-party certification has been performed.
+
+related:
+  - name: custom-braille-embosser-3d-printing-project
+    url: https://github.com/BrennenJohnston/custom-braille-embosser-3d-printing-project
+    relation: Version 1 of this device, with its CAD source and video tutorials
+  - name: braille-cylinder-stl-generator
+    url: https://github.com/BrennenJohnston/braille-cylinder-stl-generator
+    relation: PRIMARY (web-based) generator for the two cylinders; deployed at https://braille-cylinder-stl-generator.vercel.app
+  - name: braille-cylinder-stl-generator-openscad
+    url: https://github.com/BrennenJohnston/braille-cylinder-stl-generator-openscad
+    relation: ALTERNATIVE (OpenSCAD, offline) generator for the two cylinders
+  - name: OpenAT-Template
+    url: https://github.com/makersmakingchange/OpenAT-Template
+    relation: documentation/repository structure follows this template

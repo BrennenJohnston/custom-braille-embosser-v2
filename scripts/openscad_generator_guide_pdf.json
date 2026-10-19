@@ -1,0 +1,24 @@
+{
+  "pdf": "Documentation/Step_1_Guide_Option_2_Custom_Braille_Embosser_V2_OpenSCAD_Generator_Guide.pdf",
+  "pdf_sha256": "54b7564b23135776b6e5ae0c1ccaf9c423fd710c408bdb0c1c95e383a70f56ef",
+  "inputs": {
+    "Documentation/Step_1_Guide_Option_2_Custom_Braille_Embosser_V2_OpenSCAD_Generator_Guide.md": "4f0941e587ac877964b8b8c8db7817b870e5ec65d9f0f7626cb2a1555e36d150",
+    "Photos/screens/screen-branah-01-type.png": "b363dde671e60e2bf9e2917ddfcbcd02d233df8551305a03fc0be653f1dd9d82",
+    "Photos/screens/screen-branah-02-copy.png": "97833e4307052cf539d602b93a79195f8bdcf1b8ab3b4bc74a1d1ef82c8893a3",
+    "Photos/screens/screen-osc-01-window.png": "9851a963adce07de23c0f427e1670b32fe95e176bf7b78dd9cfc114eb37e4c48",
+    "Photos/screens/screen-osc-06-preview.png": "457dc600d4d39d9acc06ecced66c4445c8302cc64fc4af1fcc620b89a614fc8a",
+    "Photos/screens/screen-osc-04-choices.png": "54ced2cd76784895928a293c7ff8ce91a91d3bdfeb0f283ad6c4c7797ed65bfb",
+    "Photos/screens/screen-osc-03-text-lines.png": "57db8f9b70881ea06776c65cf9ceededaeab5df88fcfa8fd22ff7b89476bbc25",
+    "Photos/screens/screen-osc-08-cylinders.png": "225ff7ac237939f3be3f5f58ef4b1627d57a8b7526860ac22938903f7b5fe4d7",
+    "Photos/screens/screen-osc-05-card-thickness.png": "242a0aba1cca827be190545d115b8564dd0ba5bc76269ddbd8b94f279eea60ae",
+    "Photos/screens/screen-osc-02-toolbar.png": "eb6f3b24b6335fdca22397fb372c1dc09ae51e6f4ba7225b667bc1f608013915",
+    "Photos/screens/screen-osc-07-console.png": "19ac1c30fcfd31c1cf6ea5d47bf6275b9ff338a6048e9461b0146f95a3d2e8f5",
+    "scripts/build_assembly_guide_pdf.py": "1636d2e0f9112f644997b6d2fc5d62a9f913bc044f702f6b5c6096c58c7b9fdf"
+  },
+  "pages": 9,
+  "bookmarks": 13,
+  "links": 15,
+  "pictures": 10,
+  "captions": 10,
+  "producer": "Skia/PDF m155"
+}

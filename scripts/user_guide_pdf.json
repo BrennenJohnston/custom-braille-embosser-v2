@@ -1,0 +1,25 @@
+{
+  "pdf": "Documentation/Step_3_Guide_Custom_Braille_Embosser_V2_User_Guide.pdf",
+  "pdf_sha256": "4bdd93fbe87c1b42642fe23073ed02cd4367302b1471a7e25aca893bdeb400ed",
+  "inputs": {
+    "Documentation/Step_3_Guide_Custom_Braille_Embosser_V2_User_Guide.md": "75e95d7376f7eac97b9c0fd02f5c9ed88f0825b503f4329f896c2beb277b0a96",
+    "Photos/visual/visual-user-guide-cover.jpg": "7ec8f80a8cdc1b2647c7b1dd312aedba181111e706e3d6743af332db9c5f25b9",
+    "Photos/renders/render-use-01-handle-home.png": "d73d9d8c85c0ac458084488ff2897989034ef34d20df9dae23b889bdb1b66c6b",
+    "Photos/renders/render-use-02-on-its-side-slit-up.png": "b0fc7e7cc02529af377d8061018f29d5877900455a09e16286dd9fce836a7feb",
+    "Photos/renders/render-use-03-card-into-slit.png": "d70b08a41daa30b14af94f91a06a92510d105ff4af86085049211aede1e44a3a",
+    "Photos/renders/render-use-04-half-a-turn.png": "263d9f5cd76f5dd50521ad1a12d8b192239f39999a5f3582caeac31732118ff1",
+    "Photos/renders/render-use-05-turned-over-window-up.png": "f5a2adc2bf2f002f8eb68b6ac6706abecbf42c5801e3b873affdae9d585ffb54",
+    "Photos/renders/render-use-06-roll-between-the-rows.png": "4e8988902c373493114bdcb89d752134d34f4c3f80f26eb530d48d02bab73eec",
+    "Photos/renders/render-use-07-card-out.png": "1082979b479a3abf13d3763d98fe85de8991c5627431a253da30faa18c687aab",
+    "Photos/renders/render-use-08-lid-off.png": "5742f63a31d26bb7e4fdefeefe83db85fe9a7143eb67ba367f55990c02edeebb",
+    "Photos/frames/frame-base-onto-push-out-plate.jpg": "08f5acaa42d7c763a9ee44e0b3e5beab0b4827fc3ad846f264d8b6ceb5151167",
+    "Photos/finished/finished-swap-rollers-lifted-out.jpg": "32a1cf874e1641350a1178479b508e0a2d37dde62aa8fbda032deaf996d378b5",
+    "scripts/build_assembly_guide_pdf.py": "1636d2e0f9112f644997b6d2fc5d62a9f913bc044f702f6b5c6096c58c7b9fdf"
+  },
+  "pages": 9,
+  "bookmarks": 18,
+  "links": 17,
+  "pictures": 11,
+  "captions": 11,
+  "producer": "Skia/PDF m154"
+}

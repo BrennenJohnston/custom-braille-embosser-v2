@@ -1,0 +1,36 @@
+# The quick lane: every test is standard-library Python and needs no
+# browser, no OpenSCAD and no image library. The PDF, the photographs and
+# the renders are proven by the records the local scripts commit
+# (scripts/assembly_guide_pdf.json, Documentation/images.json), which the
+# tests compare with the files as they are.
+
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  test:
+    name: Quick tests
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install pytest
+        run: pip install pytest==9.1.1
+
+      - name: Documentation gate
+        run: python scripts/check_docs.py
+
+      - name: Tests
+        run: python -m pytest tests -v

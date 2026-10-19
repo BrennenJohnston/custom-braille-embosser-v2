@@ -1,0 +1,5067 @@
+[
+  {
+    "name": "overview-all-parts-small.jpg",
+    "group": "overview",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_1/20261001_174357.jpg",
+      "sha256": "0fb8ae3cfe7eade38c0bd015b48d98e739aa70abbdf4221bcd23f6a22983b9bb",
+      "pixels": [
+        2366,
+        1331
+      ]
+    },
+    "subject": [
+      "all"
+    ],
+    "angle": "standard",
+    "shows": "every part laid out on the mat, the Base top left, gears bottom centre",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "overview-all-parts.jpg",
+    "group": "overview",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_1/20261001_174405.jpg",
+      "sha256": "a6cd18e80d6fb91023857cdc893b017b5fed0a983a7599471b9ded954f7cd8c4",
+      "pixels": [
+        9650,
+        5428
+      ],
+      "imported_sha256": "a1b82d76d0c53d418bc67bd9c5915f75ec9ee1ab5f881c8fd41a40b97d6da9a6"
+    },
+    "subject": [
+      "all"
+    ],
+    "angle": "standard",
+    "shows": "every part laid out on the mat, the Base top left, gears bottom centre",
+    "crop": [
+      1323,
+      281,
+      7916,
+      4676
+    ],
+    "use": "guide",
+    "alt_status": "draft",
+    "crop_by": "mat"
+  },
+  {
+    "name": "overview-all-parts-b.jpg",
+    "group": "overview",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_1/20261001_174543.jpg",
+      "sha256": "ee3120961cc27d9ff5d4482e82887526a0549453d7558123c24c4750744611fc",
+      "pixels": [
+        9650,
+        5428
+      ]
+    },
+    "subject": [
+      "all"
+    ],
+    "angle": "standard",
+    "shows": "same layout, slightly different framing",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "overview-all-parts-c.jpg",
+    "group": "overview",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_1/20261001_174620.jpg",
+      "sha256": "76c831b983d5340e1e83d32d0f8c589493e545b0b66ff3deee70b55f8d8c941b",
+      "pixels": [
+        9650,
+        5428
+      ]
+    },
+    "subject": [
+      "all"
+    ],
+    "angle": "standard",
+    "shows": "same layout, the Base turned",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "overview-all-parts-plate-standing.jpg",
+    "group": "overview",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_1/20261001_174742.jpg",
+      "sha256": "4e96df5fcac2553790a9af7c64f0514df4c889b71995f3e307bf25d5ecb5d56d",
+      "pixels": [
+        9650,
+        5428
+      ]
+    },
+    "subject": [
+      "all"
+    ],
+    "angle": "standard",
+    "shows": "layout with the Push-out Plate standing on edge behind the Base",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "finished-parts-line.jpg",
+    "group": "finished",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_2/20261001_175320.jpg",
+      "sha256": "b2dd13eefa86a555f31df035a9200a678990ab0d237ef26546f5a6e5afdba908",
+      "pixels": [
+        2677,
+        1506
+      ],
+      "imported_sha256": "34a20ec5f341e91361ff8a3b2ec0c2de7e38a1ef4bd42bf46ebce626e98da40e"
+    },
+    "subject": [
+      "all"
+    ],
+    "angle": "standard",
+    "shows": "the parts in one line: gear, cylinder, gear, gear, cylinder, gear, Base, Knob, Lid, Handle",
+    "crop": [
+      0,
+      0,
+      2677,
+      1506
+    ],
+    "use": "guide",
+    "alt_status": "draft",
+    "crop_by": "mat"
+  },
+  {
+    "name": "finished-parts-line-gears-on-b.jpg",
+    "group": "finished",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_2/20261001_175328.jpg",
+      "sha256": "d0708e8f75af50ab291eeccec8273683b296adfde40ec40c91ce281e6a78ef44",
+      "pixels": [
+        2677,
+        1506
+      ]
+    },
+    "subject": [
+      "all"
+    ],
+    "angle": "standard",
+    "shows": "the parts line with the first roller's gears going on",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "finished-parts-line-gears-on-c.jpg",
+    "group": "finished",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_2/20261001_175335.jpg",
+      "sha256": "17c995a01c3d09f9189904eb40dbd6d8d71bdbc626d66b728642666d7c4ab44c",
+      "pixels": [
+        2677,
+        1506
+      ]
+    },
+    "subject": [
+      "all"
+    ],
+    "angle": "standard",
+    "shows": "the parts line with both rollers' gears going on",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "finished-parts-line-rollers-built.jpg",
+    "group": "finished",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_2/20261001_175344.jpg",
+      "sha256": "001c168af9830cf77313536fff3e9f283d6e578e90ac8d859717222dd9858174",
+      "pixels": [
+        2677,
+        1506
+      ]
+    },
+    "subject": [
+      "all"
+    ],
+    "angle": "standard",
+    "shows": "the parts line with both rollers built",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "finished-parts-line-rollers-paired.jpg",
+    "group": "finished",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_2/20261001_175354.jpg",
+      "sha256": "0ed65a0696d4193d8bd76f8f41dd486d1abec8755b7457874473d57d7b2468cc",
+      "pixels": [
+        2677,
+        1506
+      ]
+    },
+    "subject": [
+      "all"
+    ],
+    "angle": "standard",
+    "shows": "the parts line with the two rollers standing together",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "finished-parts-line-rollers-at-base.jpg",
+    "group": "finished",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_2/20261001_175406.jpg",
+      "sha256": "cc602e548aa1af8c1a8840aa9a052cb0efc714940962a6d1c11c2cca55fccbaf",
+      "pixels": [
+        2677,
+        1506
+      ]
+    },
+    "subject": [
+      "all"
+    ],
+    "angle": "standard",
+    "shows": "the two rollers standing in front of the Base; Knob, Lid and Handle in line",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "finished-rollers-in-base-rest-beside.jpg",
+    "group": "finished",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_2/20261001_175416.jpg",
+      "sha256": "1dbfdf720b8c6963293902277f73dc114716c3138db21b6da4fac63e87673f75",
+      "pixels": [
+        2677,
+        1506
+      ]
+    },
+    "subject": [
+      "base",
+      "cylinder-a",
+      "cylinder-b",
+      "knob",
+      "lid",
+      "handle"
+    ],
+    "angle": "standard",
+    "shows": "both rollers in the Base; Knob, Lid and Handle still beside it",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "finished-rollers-in-base-rest-beside-b.jpg",
+    "group": "finished",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_2/20261001_175425.jpg",
+      "sha256": "fab1d9b43953f2ef5431daf0279c9da223f7cec213685e4b0628c47ade84c979",
+      "pixels": [
+        2677,
+        1506
+      ]
+    },
+    "subject": [
+      "base",
+      "cylinder-a",
+      "cylinder-b",
+      "knob",
+      "lid",
+      "handle"
+    ],
+    "angle": "standard",
+    "shows": "as the previous photo, framed closer",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "finished-lid-and-knob-on-handle-beside.jpg",
+    "group": "finished",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_2/20261001_175437.jpg",
+      "sha256": "6ee12a2778c7315b19e723033b6b1109f0862522d9a2e1a430cdeb48fc295830",
+      "pixels": [
+        2677,
+        1506
+      ]
+    },
+    "subject": [
+      "base",
+      "lid",
+      "knob",
+      "handle"
+    ],
+    "angle": "standard",
+    "shows": "Lid and Knob on, the Handle still beside the Base",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "finished-handle-on-standard-a.jpg",
+    "group": "finished",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_2/20261001_175448.jpg",
+      "sha256": "983eaf73e8dcf680d83b6120251da702a8afb1e84612bdff88ccfd65797e78dd",
+      "pixels": [
+        2677,
+        1506
+      ]
+    },
+    "subject": [
+      "all"
+    ],
+    "angle": "standard",
+    "shows": "the finished embosser standing, Handle on",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "finished-standing-small.jpg",
+    "group": "finished",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_2/20261001_175456-2.jpg",
+      "sha256": "f76ca1a93fcc6da6248abea99aa123d6f92760bef9b875e1ef3260159f5003ff",
+      "pixels": [
+        2013,
+        1132
+      ]
+    },
+    "subject": [
+      "all"
+    ],
+    "angle": "standard",
+    "shows": "the finished embosser standing, Handle pointing away",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "finished-standing.jpg",
+    "group": "finished",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_2/20261001_175456.jpg",
+      "sha256": "d3c30fdc7ed1bb0c96a6710c2fd273b72ad8aadd4c337f8cb6777d5fd65269e6",
+      "pixels": [
+        2677,
+        1506
+      ],
+      "imported_sha256": "58499ae48a09afd0b455b11d2a04657e947425db2bd31cd86af4c1549c636d0d"
+    },
+    "subject": [
+      "all"
+    ],
+    "angle": "standard",
+    "shows": "the finished embosser standing, Handle pointing away; the hero shot",
+    "crop": [
+      612,
+      114,
+      2212,
+      1180
+    ],
+    "use": "guide",
+    "alt_status": "draft",
+    "crop_by": "mat"
+  },
+  {
+    "name": "finished-standing-handle-up.jpg",
+    "group": "finished",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_2/20261001_175503.jpg",
+      "sha256": "f09acbade3baed52de11ad67c43c79c32770bdb5b600fc66221f9b6becfe01ff",
+      "pixels": [
+        2013,
+        1132
+      ]
+    },
+    "subject": [
+      "all"
+    ],
+    "angle": "standard",
+    "shows": "the finished embosser, Handle straight up",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "finished-standing-handle-across.jpg",
+    "group": "finished",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_2/20261001_175507.jpg",
+      "sha256": "8a647d431e4735da0c21ca79d0f43a3a68bbf2e31dc83328a5ba8a33094e4246",
+      "pixels": [
+        2013,
+        1132
+      ]
+    },
+    "subject": [
+      "all"
+    ],
+    "angle": "standard",
+    "shows": "the finished embosser, Handle across the top",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "finished-standing-handle-up-b.jpg",
+    "group": "finished",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_2/20261001_175512.jpg",
+      "sha256": "8faa51c6116123792629194346f4cfb94f915e0af4dd1999aaf8210862db9837",
+      "pixels": [
+        2013,
+        1132
+      ]
+    },
+    "subject": [
+      "all"
+    ],
+    "angle": "standard",
+    "shows": "the finished embosser, Handle straight up, closer",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "finished-standing-handle-across-b.jpg",
+    "group": "finished",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_2/20261001_175517.jpg",
+      "sha256": "2f614b14a63d32807bc340da02dd4a0d9edfde6f399e879669b00c0db5ba3c40",
+      "pixels": [
+        2013,
+        1132
+      ]
+    },
+    "subject": [
+      "all"
+    ],
+    "angle": "standard",
+    "shows": "the finished embosser, Handle across the top, closer",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "finished-standing-from-base.jpg",
+    "group": "finished",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_2/20261001_175522.jpg",
+      "sha256": "33d4375808cb5f84d09bec65da5fec47ae6ac5bf0aa834d96bd99f2482179f16",
+      "pixels": [
+        2013,
+        1132
+      ]
+    },
+    "subject": [
+      "all"
+    ],
+    "angle": "standard",
+    "shows": "the finished embosser seen from the Base end",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "finished-on-its-side-handle-right.jpg",
+    "group": "finished",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_2/20261001_175527.jpg",
+      "sha256": "d0c2b91f55116e84291092b41722960b6a05dc18a3812b9e92003a2186e48c6a",
+      "pixels": [
+        2013,
+        1132
+      ],
+      "imported_sha256": "12e11e55427d5d8c5d298a9c74f9f3c15e9b2435febf7351af145e294809b2e9"
+    },
+    "subject": [
+      "all"
+    ],
+    "angle": "standard",
+    "shows": "the embosser lying on its side in the watching position: window up, Handle to the right, the long arrow on the tower pointing at the window",
+    "crop": [
+      231,
+      0,
+      1831,
+      1066
+    ],
+    "use": "spare",
+    "alt_status": "draft",
+    "crop_by": "mat"
+  },
+  {
+    "name": "finished-on-its-side-window-up.jpg",
+    "group": "finished",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_2/20261001_175531.jpg",
+      "sha256": "0fdd66e63e6bbb5cb8cd7c31fac4c5dbf1b4b1f365d454f769c7ff9067602765",
+      "pixels": [
+        2013,
+        1132
+      ]
+    },
+    "subject": [
+      "all"
+    ],
+    "angle": "standard",
+    "shows": "the embosser on its side, window toward the camera",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "finished-on-its-side-handle-left.jpg",
+    "group": "finished",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_2/20261001_175537.jpg",
+      "sha256": "d9b48f67ad992ca55038e2b2e8a940ab43e208c96ce7cd48c2f8512931701d2b",
+      "pixels": [
+        2013,
+        1132
+      ]
+    },
+    "subject": [
+      "all"
+    ],
+    "angle": "standard",
+    "shows": "the embosser on its side, Handle to the left",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "finished-on-its-side-handle-right-b.jpg",
+    "group": "finished",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_2/20261001_175548.jpg",
+      "sha256": "3396234f427ed178c1a1dc37cc2e19a741222b6f7d2c465157329892bcb97965",
+      "pixels": [
+        2013,
+        1132
+      ]
+    },
+    "subject": [
+      "all"
+    ],
+    "angle": "standard",
+    "shows": "the embosser on its side, Handle to the right",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "finished-on-its-side-handle-right-c.jpg",
+    "group": "finished",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_2/20261001_175554.jpg",
+      "sha256": "51b3c19826e35a0f23655c4f5827306a92e737867bab49f8460405c989ab054a",
+      "pixels": [
+        2013,
+        1132
+      ]
+    },
+    "subject": [
+      "all"
+    ],
+    "angle": "standard",
+    "shows": "the embosser on its side, Handle to the right, Lid toward the camera",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "finished-on-its-side-handle-right-d.jpg",
+    "group": "finished",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_2/20261001_175606.jpg",
+      "sha256": "49f6c9dbf73088944fd43bacbd32492136691f46882f5be4d704151344e62548",
+      "pixels": [
+        2013,
+        1132
+      ]
+    },
+    "subject": [
+      "all"
+    ],
+    "angle": "standard",
+    "shows": "the embosser on its side, Handle to the right",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "finished-on-its-side-handle-right-e.jpg",
+    "group": "finished",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_2/20261001_175633.jpg",
+      "sha256": "df13cd2a4cbc745f0c8d2d612bc8f23ac4664ade9f8c1b338ffe908819212bb9",
+      "pixels": [
+        2013,
+        1132
+      ]
+    },
+    "subject": [
+      "all"
+    ],
+    "angle": "standard",
+    "shows": "the embosser on its side, Handle to the right",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "finished-on-its-side-handle-left-b.jpg",
+    "group": "finished",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_2/20261001_175708.jpg",
+      "sha256": "431f5559b3abf11bf75b412b48cc72bbb57f576c38d782bddabe2e2926ecc6d7",
+      "pixels": [
+        2013,
+        1132
+      ]
+    },
+    "subject": [
+      "all"
+    ],
+    "angle": "standard",
+    "shows": "the embosser on its side, Handle to the left",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "finished-on-its-side-handle-right-f.jpg",
+    "group": "finished",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_2/20261001_175723.jpg",
+      "sha256": "d5cb384bddcd42feb172e58f42ac0eb64f3e8ea765bcba56c08d38d3e8f4064b",
+      "pixels": [
+        2013,
+        1132
+      ]
+    },
+    "subject": [
+      "all"
+    ],
+    "angle": "standard",
+    "shows": "the embosser on its side, Handle to the right",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "finished-on-its-side-handle-right-g.jpg",
+    "group": "finished",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_2/20261001_175728.jpg",
+      "sha256": "facf214ef2804019d341362d74754926ff2325df1e97f683e14d713c941445d8",
+      "pixels": [
+        2013,
+        1132
+      ]
+    },
+    "subject": [
+      "all"
+    ],
+    "angle": "standard",
+    "shows": "the embosser on its side, Handle to the right",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "finished-with-embossed-card.jpg",
+    "group": "finished",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_2/20261001_175749.jpg",
+      "sha256": "113559feb6779bff44c4e89811dfc1ada8af1ddc4a3ee7b463bd6f679f810602",
+      "pixels": [
+        2013,
+        1132
+      ],
+      "imported_sha256": "aaf5d58bbc624aa96638a6e65e7bdc610d853d8ddfb8d76a2aa250843a889d33"
+    },
+    "subject": [
+      "all",
+      "card"
+    ],
+    "angle": "standard",
+    "shows": "the finished embosser with an embossed braille card leaning against its Base",
+    "crop": [
+      274,
+      0,
+      1874,
+      1066
+    ],
+    "use": "guide",
+    "alt_status": "draft",
+    "crop_by": "mat"
+  },
+  {
+    "name": "finished-with-embossed-card-b.jpg",
+    "group": "finished",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_2/20261001_175759.jpg",
+      "sha256": "04f2502ce09210128c2d182a324af8930a88024cbb8657ad27b28ff34be2636c",
+      "pixels": [
+        2013,
+        1132
+      ]
+    },
+    "subject": [
+      "all",
+      "card"
+    ],
+    "angle": "standard",
+    "shows": "the embosser with the embossed card, framed closer",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "finished-with-push-out-plate.jpg",
+    "group": "finished",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_2/20261001_175820.jpg",
+      "sha256": "0c4be81b97a370bc3daaff95ab475633a1c4bee1b010b07eada4faea725628b5",
+      "pixels": [
+        2580,
+        1451
+      ],
+      "imported_sha256": "749ce0ce86cac44adc50c29a43b64313d91e5b0be02fbc2b72bba0454bd609bb"
+    },
+    "subject": [
+      "all",
+      "push-out-plate"
+    ],
+    "angle": "standard",
+    "shows": "the finished embosser with the Push-out Plate lying in front of it",
+    "crop": [
+      265,
+      15,
+      2362,
+      1413
+    ],
+    "use": "guide",
+    "alt_status": "draft",
+    "crop_by": "mat"
+  },
+  {
+    "name": "finished-swap-plate-in-front.jpg",
+    "group": "finished",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_2/20261001_175834.jpg",
+      "sha256": "10a4cc6c6cb7a838818d40d749653be6735a07202145d514ff47407bd749557f",
+      "pixels": [
+        2580,
+        1451
+      ]
+    },
+    "subject": [
+      "base",
+      "cylinder-a",
+      "cylinder-b",
+      "push-out-plate",
+      "lid",
+      "knob",
+      "handle"
+    ],
+    "angle": "standard",
+    "shows": "Lid, Knob and Handle off; both rollers in the Base; the Push-out Plate in front",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "finished-swap-rollers-in-base.jpg",
+    "group": "finished",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_2/20261001_175844.jpg",
+      "sha256": "bbcdb794b2cc53817dc125b3d69037e7031d180ac311069f4cef662ed754c5d9",
+      "pixels": [
+        2580,
+        1451
+      ]
+    },
+    "subject": [
+      "base",
+      "cylinder-a",
+      "cylinder-b",
+      "lid",
+      "knob",
+      "handle"
+    ],
+    "angle": "standard",
+    "shows": "both rollers in the Base, the Lid, Knob and Handle beside",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "finished-swap-rollers-lifted-out.jpg",
+    "group": "finished",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_2/20261001_175902.jpg",
+      "sha256": "72792516ee45bba378515c5b2c2e26d5d09890b623f7ea90cbdd896a34542f2b",
+      "pixels": [
+        2580,
+        1451
+      ],
+      "imported_sha256": "32a1cf874e1641350a1178479b508e0a2d37dde62aa8fbda032deaf996d378b5"
+    },
+    "subject": [
+      "base",
+      "cylinder-a",
+      "cylinder-b"
+    ],
+    "angle": "standard",
+    "shows": "both rollers standing beside the empty Base after pushing them out",
+    "crop": [
+      802,
+      185,
+      2402,
+      1252
+    ],
+    "use": "guide",
+    "alt_status": "draft",
+    "crop_by": "mat"
+  },
+  {
+    "name": "finished-swap-base-empty-plate-beside.jpg",
+    "group": "finished",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_2/20261001_175911.jpg",
+      "sha256": "342c5a081f0d2adf67b57aa464ef6d6fbd056b54f1929672248d95868e30698b",
+      "pixels": [
+        2580,
+        1451
+      ]
+    },
+    "subject": [
+      "base",
+      "push-out-plate"
+    ],
+    "angle": "standard",
+    "shows": "the empty Base with the Push-out Plate beside it",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "finished-swap-fused-rollers-beside-base.jpg",
+    "group": "finished",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_2/20261001_175926.jpg",
+      "sha256": "a1b9910011163b0f5080591fb772633697f72f9aa14a46cf0a3c0b86a53d7020",
+      "pixels": [
+        2580,
+        1451
+      ],
+      "imported_sha256": "3ab5c81a4e42b8ae071a6c016a0ec0f3fdcd62af5e7fe98263cf98d261dfcae6"
+    },
+    "subject": [
+      "base",
+      "fused-rollers"
+    ],
+    "angle": "standard",
+    "shows": "the empty Base with a pair of one-piece white rollers (fused gears) standing beside it",
+    "crop": [
+      0,
+      0,
+      2387,
+      1451
+    ],
+    "use": "spare",
+    "alt_status": "none",
+    "crop_by": "mat"
+  },
+  {
+    "name": "finished-swap-fused-rollers-beside-base-b.jpg",
+    "group": "finished",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_2/20261001_175931.jpg",
+      "sha256": "96de2e44157aef3d274fb9cec3ad125fe1a6f2948f9c2459022f1ddadc82d837",
+      "pixels": [
+        2580,
+        1451
+      ]
+    },
+    "subject": [
+      "base",
+      "fused-rollers"
+    ],
+    "angle": "standard",
+    "shows": "as the previous photo",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "finished-swap-fused-rollers-in-front-of-base.jpg",
+    "group": "finished",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_2/20261001_175951.jpg",
+      "sha256": "4cd381fa985dd695dcfafcca0215bc35f49509bde4c23d4efeab52ca119bccfe",
+      "pixels": [
+        2491,
+        1401
+      ]
+    },
+    "subject": [
+      "base",
+      "fused-rollers"
+    ],
+    "angle": "standard",
+    "shows": "the fused rollers standing in front of the Base",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "finished-swap-fused-rollers-in-base.jpg",
+    "group": "finished",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_2/20261001_175959.jpg",
+      "sha256": "fff8130851e1058084320f8559ec7565bb16f6cf0ce34aa05e20e433d4e25b61",
+      "pixels": [
+        2491,
+        1401
+      ],
+      "imported_sha256": "4bcec72950cea34ef15315de0e4adbc19b9055bb2eff6172249f352f698d0134"
+    },
+    "subject": [
+      "base",
+      "fused-rollers"
+    ],
+    "angle": "standard",
+    "shows": "the fused roller pair seated in the Base",
+    "crop": [
+      738,
+      0,
+      2338,
+      1066
+    ],
+    "use": "spare",
+    "alt_status": "none",
+    "crop_by": "mat"
+  },
+  {
+    "name": "finished-swap-fused-lid-knob-on.jpg",
+    "group": "finished",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_2/20261001_180009.jpg",
+      "sha256": "01da02b31ec27f802534e65aeba47d07ebc070a2e88533b55b0849c151dd34dc",
+      "pixels": [
+        2491,
+        1401
+      ]
+    },
+    "subject": [
+      "base",
+      "fused-rollers",
+      "lid",
+      "knob"
+    ],
+    "angle": "standard",
+    "shows": "Lid and Knob on over the fused rollers",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "part-gear-wide-peg-up-b.jpg",
+    "group": "parts",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_3/20261001_180223.jpg",
+      "sha256": "74e0b7b56c48ca17c8cbe0a9356f5b9c92e34085f47c2bbeb3f5910def85c218",
+      "pixels": [
+        5298,
+        2980
+      ],
+      "imported_sha256": "850c58a8a3b26cbfcadc0a6f3fdfac95dacd8ee059d0a66b7a720a1c79730f29"
+    },
+    "subject": [
+      "bottom-gear-b"
+    ],
+    "angle": "standard",
+    "shows": "a gear with a wide flat peg standing up and a small stud beside it: a bottom gear, likely Bottom Gear B (confirm)",
+    "crop": [
+      1911,
+      1546,
+      3511,
+      2612
+    ],
+    "use": "spare",
+    "alt_status": "none",
+    "crop_by": "mat"
+  },
+  {
+    "name": "part-gear-bottom-b-hub-face.jpg",
+    "group": "parts",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_3/20261001_180231.jpg",
+      "sha256": "e223362759b641fcd40952b998eaaa1beba51d92ad3c0db760b20bff1b2466ea",
+      "pixels": [
+        5298,
+        2980
+      ],
+      "imported_sha256": "6d83963a87d6efb0d986fa2bcbd98a2eaf9856087b8292ece2b51f6b123564a5"
+    },
+    "subject": [
+      "bottom-gear-b"
+    ],
+    "angle": "standard",
+    "shows": "Bottom Gear B with its hub face up: a plain small round pocket with a vent hole in its floor, for the Base's smaller post",
+    "crop": [
+      1968,
+      1509,
+      3568,
+      2576
+    ],
+    "use": "guide",
+    "alt_status": "draft",
+    "crop_by": "mat"
+  },
+  {
+    "name": "part-gear-square-peg-up-c.jpg",
+    "group": "parts",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_3/20261001_180242.jpg",
+      "sha256": "07b21eba03719b006a70d7d202a634cb8c7752efad8703ca63c76475d9c8f2fe",
+      "pixels": [
+        5298,
+        2980
+      ],
+      "imported_sha256": "6c7e55d1965d1d91891f1e6c573df6c78647d5a2c4c52508f49872afc460fdbd"
+    },
+    "subject": [
+      "top-gear-b"
+    ],
+    "angle": "standard",
+    "shows": "a gear with a near-square peg standing up and a notch beside it: a top gear, likely Top Gear B (confirm)",
+    "crop": [
+      1915,
+      1532,
+      3515,
+      2599
+    ],
+    "use": "spare",
+    "alt_status": "none",
+    "crop_by": "mat"
+  },
+  {
+    "name": "part-gear-wide-peg-up-c.jpg",
+    "group": "parts",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_3/20261001_180257.jpg",
+      "sha256": "1e2663ea00a2962b16eac08466dcb8c31531d88dd66e476cbcfb1481cb8aa3d1",
+      "pixels": [
+        5298,
+        2980
+      ]
+    },
+    "subject": [
+      "bottom-gear-b"
+    ],
+    "angle": "standard",
+    "shows": "a gear with a wide flat peg standing up and a small stud beside it: a bottom gear, likely Bottom Gear B (confirm)",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "part-gear-bottom-b-hub-face-b.jpg",
+    "group": "parts",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_3/20261001_180306.jpg",
+      "sha256": "75e22e12d48a34aefef6d57b6c2991edfa7d96ff0eed14b06955f6a2ea3ef8fa",
+      "pixels": [
+        5298,
+        2980
+      ]
+    },
+    "subject": [
+      "bottom-gear-b"
+    ],
+    "angle": "standard",
+    "shows": "Bottom Gear B hub face, a second frame",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "part-gear-square-peg-up-a.jpg",
+    "group": "parts",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_3/20261001_180320.jpg",
+      "sha256": "44e0464cbfc2dcabd13c208add47db2f7213b06030e4cdd555a64ece77b9f067",
+      "pixels": [
+        5298,
+        2980
+      ],
+      "imported_sha256": "fcf113246f1bfd6b22e368759e82d3e863c8b3265fb524e44eda2f9f65cb5b5c"
+    },
+    "subject": [
+      "top-gear-a"
+    ],
+    "angle": "standard",
+    "shows": "a gear with a square peg standing up and a notch beside it: a top gear, likely Top Gear A (confirm)",
+    "crop": [
+      1968,
+      1589,
+      3568,
+      2655
+    ],
+    "use": "spare",
+    "alt_status": "none",
+    "crop_by": "mat"
+  },
+  {
+    "name": "part-gear-top-b-hub-face.jpg",
+    "group": "parts",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_3/20261001_180326.jpg",
+      "sha256": "718687d16afc0d5678e0804d46fdee02e13aa755a597af82afbd4deb19de3ca3",
+      "pixels": [
+        5298,
+        2980
+      ],
+      "imported_sha256": "9eba57410a72caf6b2de5596c6807d45e25824a67ebb0b586f81a67d946d1881"
+    },
+    "subject": [
+      "top-gear-b"
+    ],
+    "angle": "standard",
+    "shows": "Top Gear B with its hub face up: the small round pocket for the Lid's post, with four ribbed grooves round it in a cross",
+    "crop": [
+      1984,
+      1529,
+      3584,
+      2596
+    ],
+    "use": "guide",
+    "alt_status": "draft",
+    "crop_by": "mat"
+  },
+  {
+    "name": "part-cylinder-b-top-up.jpg",
+    "group": "parts",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_3/20261001_180338.jpg",
+      "sha256": "fc47cba047cbc5b0609cbcab1a248ce471cfea94f151359d36e87fae1ef6d6d0",
+      "pixels": [
+        5298,
+        2980
+      ],
+      "imported_sha256": "89248a994b767b2b924d5406b1e7883cd314e571e1a17a12c54f1c485ca46263"
+    },
+    "subject": [
+      "cylinder-b"
+    ],
+    "angle": "standard",
+    "shows": "Cylinder B standing with its top face up: the wider rectangular keyhole and the small square bump beside it; its arrows are sunk into its side (this kit's single-sided B has dimples, no dots)",
+    "crop": [
+      1903,
+      1298,
+      3572,
+      2410
+    ],
+    "use": "guide",
+    "alt_status": "draft",
+    "crop_by": "mat"
+  },
+  {
+    "name": "part-cylinder-b-top-up-b.jpg",
+    "group": "parts",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_3/20261001_180351.jpg",
+      "sha256": "3644c7e196d310ef7065d95542b67cd81da9818e22400e8ff45016652a7334dd",
+      "pixels": [
+        5298,
+        2980
+      ]
+    },
+    "subject": [
+      "cylinder-b"
+    ],
+    "angle": "standard",
+    "shows": "Cylinder B standing, a second frame",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "part-gear-wide-peg-up-a.jpg",
+    "group": "parts",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_3/20261001_180402.jpg",
+      "sha256": "3d807ad81c1870042066e6f554eae364d70c134a8cafc9fc453e6a3b93eac862",
+      "pixels": [
+        5298,
+        2980
+      ],
+      "imported_sha256": "f37f93abc69ff45e9bc4fd1fd2e0569fd94ba0b4fffb36f39bdd33e2a2a957da"
+    },
+    "subject": [
+      "bottom-gear-a"
+    ],
+    "angle": "standard",
+    "shows": "a gear with a wide peg standing up and a small stud beside it: a bottom gear, likely Bottom Gear A (confirm)",
+    "crop": [
+      1958,
+      1532,
+      3558,
+      2599
+    ],
+    "use": "spare",
+    "alt_status": "none",
+    "crop_by": "mat"
+  },
+  {
+    "name": "part-gear-bottom-a-hub-face.jpg",
+    "group": "parts",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_3/20261001_180408.jpg",
+      "sha256": "6a0f17898c05c8aca4809297e3058bb74df52ba17627e7f4319294e87ed0a824",
+      "pixels": [
+        5298,
+        2980
+      ],
+      "imported_sha256": "0ffcafa95b502b653df8b180ceb73ce36d6a66ea138358eb20d715acd1cae808"
+    },
+    "subject": [
+      "bottom-gear-a"
+    ],
+    "angle": "standard",
+    "shows": "Bottom Gear A with its hub face up: the large round pocket with a cone at its bottom, for the Base's larger post",
+    "crop": [
+      1945,
+      1526,
+      3545,
+      2592
+    ],
+    "use": "guide",
+    "alt_status": "draft",
+    "crop_by": "mat"
+  },
+  {
+    "name": "part-gear-square-peg-up-b.jpg",
+    "group": "parts",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_3/20261001_180419.jpg",
+      "sha256": "535a204678e90058bee39e59fea90444491db42b18c4de1484f7fd22a44d2976",
+      "pixels": [
+        5298,
+        2980
+      ]
+    },
+    "subject": [
+      "top-gear-a"
+    ],
+    "angle": "standard",
+    "shows": "a gear with a square peg standing up and a notch beside it: a top gear, likely Top Gear A (confirm)",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "part-gear-top-b-hub-face-b.jpg",
+    "group": "parts",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_3/20261001_180426.jpg",
+      "sha256": "a5a34d6465fdeaf11b18609d47149e57d619f54c9ee871a8752aa98d1494448d",
+      "pixels": [
+        5298,
+        2980
+      ]
+    },
+    "subject": [
+      "top-gear-b"
+    ],
+    "angle": "standard",
+    "shows": "Top Gear B hub face, a second frame",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "part-cylinder-a-top-up.jpg",
+    "group": "parts",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_3/20261001_180435.jpg",
+      "sha256": "ad1c91e86fd0b4fe690fc4dabd231d6c631eb51317288d4520076874dc3686d0",
+      "pixels": [
+        5298,
+        2980
+      ],
+      "imported_sha256": "68aa92a6e3256c2f6ea3debe81d7f43ac22444f17ac9f95e2caf0daba28996f0"
+    },
+    "subject": [
+      "cylinder-a"
+    ],
+    "angle": "standard",
+    "shows": "Cylinder A standing with its top face up: the square keyhole and the small triangle bump beside it; the column of raised arrows down its side (this kit's single-sided A also has raised dots)",
+    "crop": [
+      1898,
+      1304,
+      3578,
+      2424
+    ],
+    "use": "guide",
+    "alt_status": "draft",
+    "crop_by": "mat"
+  },
+  {
+    "name": "part-cylinder-a-top-up-b.jpg",
+    "group": "parts",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_3/20261001_180442.jpg",
+      "sha256": "36096aa85c5f1a1dc44674953aa6b1ed991495081d59a596230b9d33a32fe467",
+      "pixels": [
+        5298,
+        2980
+      ]
+    },
+    "subject": [
+      "cylinder-a"
+    ],
+    "angle": "standard",
+    "shows": "Cylinder A standing, a second frame",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "part-base-standard.jpg",
+    "group": "parts",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_3/20261001_180457.jpg",
+      "sha256": "f8abc3bc907a354d7493a399c56915de8ab67cfce384d58564e712adf5fc696a",
+      "pixels": [
+        5999,
+        3374
+      ],
+      "imported_sha256": "6d9985708962db3b0b8471e31d8c680ba1b7f6002adbb8571e9620789ab1327e"
+    },
+    "subject": [
+      "base"
+    ],
+    "angle": "standard",
+    "shows": "the Base standing, window toward the camera",
+    "crop": [
+      1471,
+      647,
+      4557,
+      2704
+    ],
+    "use": "guide",
+    "alt_status": "draft",
+    "crop_by": "mat"
+  },
+  {
+    "name": "part-base-turned-left.jpg",
+    "group": "parts",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_3/20261001_180501.jpg",
+      "sha256": "60dee6813383389dc8896b353db7a9dee0071c5844c62d4fde6f7162b748980b",
+      "pixels": [
+        5999,
+        3374
+      ]
+    },
+    "subject": [
+      "base"
+    ],
+    "angle": "standard",
+    "shows": "the Base turned, window to the left",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "part-base-turned-right.jpg",
+    "group": "parts",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_3/20261001_180504.jpg",
+      "sha256": "cbc7c88410f6aa1ccd505c12b20573a3a22313fef080f7c8495fe25d2658579c",
+      "pixels": [
+        5999,
+        3374
+      ]
+    },
+    "subject": [
+      "base"
+    ],
+    "angle": "standard",
+    "shows": "the Base turned, window to the right",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "part-base-side.jpg",
+    "group": "parts",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_3/20261001_180511.jpg",
+      "sha256": "f9f4c9e31a26dfb7fa5756e2208ec8a5ba74d3e6f45caec14e29deb43f422ad0",
+      "pixels": [
+        5999,
+        3374
+      ]
+    },
+    "subject": [
+      "base"
+    ],
+    "angle": "standard",
+    "shows": "the Base seen from one side",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "part-base-front-b.jpg",
+    "group": "parts",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_3/20261001_180514.jpg",
+      "sha256": "5e5ab8bb58eb5ce84a77dafe082ced15f41ff66133ad403a8747ed0aebfbd5f7",
+      "pixels": [
+        5999,
+        3374
+      ]
+    },
+    "subject": [
+      "base"
+    ],
+    "angle": "standard",
+    "shows": "the Base from the front, a second frame (first read as the back; the slit seen is the back wall through the window)",
+    "crop": [
+      1626,
+      535,
+      4687,
+      2576
+    ],
+    "use": "spare",
+    "alt_status": "draft",
+    "crop_by": "mat"
+  },
+  {
+    "name": "part-base-top-posts.jpg",
+    "group": "parts",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_3/20261001_180539.jpg",
+      "sha256": "2bc9acc1a984f85b365ae31ff13bb96697b11cfb6b5a67653cff19e2e7e76c5a",
+      "pixels": [
+        5999,
+        3374
+      ],
+      "imported_sha256": "a35807231f35ec40c6b1d241bb16d9752f95d63120118fa88417993d623feaa6"
+    },
+    "subject": [
+      "base"
+    ],
+    "angle": "top",
+    "shows": "looking down into the Base: the two posts, the slot and the holes in the floor",
+    "crop": [
+      1920,
+      931,
+      4175,
+      2435
+    ],
+    "use": "guide",
+    "alt_status": "draft",
+    "crop_by": "mat"
+  },
+  {
+    "name": "part-base-top-posts-b.jpg",
+    "group": "parts",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_3/20261001_180612.jpg",
+      "sha256": "75cc0fabe33fa0cdd1bfb50716eac64923e0614b3424377a8e7ae35d5f9f27d1",
+      "pixels": [
+        5999,
+        3374
+      ]
+    },
+    "subject": [
+      "base"
+    ],
+    "angle": "top",
+    "shows": "as the previous photo",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "part-base-underside.jpg",
+    "group": "parts",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_3/20261001_180700.jpg",
+      "sha256": "76edbdeec81cf31b2207d61a6030c8547372977850653849a69ecde5d8872ff1",
+      "pixels": [
+        5999,
+        3374
+      ],
+      "imported_sha256": "c3cd72ed8cee5ce646c1732a024b1f71a6d76e50e87c720bfa474b5a5f4fd4af"
+    },
+    "subject": [
+      "base"
+    ],
+    "angle": "standard",
+    "shows": "the Base upside down: the slot and the keyholes the Push-out Plate's pegs go into",
+    "crop": [
+      1529,
+      854,
+      4477,
+      2819
+    ],
+    "use": "guide",
+    "alt_status": "draft",
+    "crop_by": "mat"
+  },
+  {
+    "name": "part-knob-a.jpg",
+    "group": "parts",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_3/20261001_180710-2.jpg",
+      "sha256": "7d420e532ca95783442e46067dc53bc88ad3ab3864805ee0b73478f9053e1084",
+      "pixels": [
+        5999,
+        3374
+      ],
+      "imported_sha256": "a70eeb563b8b76607cb8eaee59334cb4e4c65fed850aecb6b7d8bff40268832a"
+    },
+    "subject": [
+      "knob"
+    ],
+    "angle": "standard",
+    "shows": "the Knob alone, tab up",
+    "crop": [
+      2293,
+      1701,
+      3893,
+      2767
+    ],
+    "use": "guide",
+    "alt_status": "draft",
+    "crop_by": "mat"
+  },
+  {
+    "name": "part-knob-b.jpg",
+    "group": "parts",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_3/20261001_180710-3.jpg",
+      "sha256": "5df9350c56d54af72d996fd7efc89f32111a224ab065e51bc1776aafdd2658e6",
+      "pixels": [
+        5999,
+        3374
+      ]
+    },
+    "subject": [
+      "knob"
+    ],
+    "angle": "standard",
+    "shows": "the Knob alone, turned",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "part-knob-c.jpg",
+    "group": "parts",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_3/20261001_180710.jpg",
+      "sha256": "94b4062f91deb671d77aa8cf0dcd404c46282e03d43cd30264b26b1ab36c0e90",
+      "pixels": [
+        5999,
+        3374
+      ]
+    },
+    "subject": [
+      "knob"
+    ],
+    "angle": "standard",
+    "shows": "the Knob alone, turned",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "part-knob-d.jpg",
+    "group": "parts",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_3/20261001_180714.jpg",
+      "sha256": "722b47a2fcef5e8a0fcface897a973672b3878e21059d324844a1d2c6b6532b8",
+      "pixels": [
+        5999,
+        3374
+      ]
+    },
+    "subject": [
+      "knob"
+    ],
+    "angle": "standard",
+    "shows": "the Knob alone, tab up, a different angle",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "part-knob-e.jpg",
+    "group": "parts",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_3/20261001_180720.jpg",
+      "sha256": "584cb236b717f782678b0c5c42c553021d4324af644b48984013fb4333d59978",
+      "pixels": [
+        5999,
+        3374
+      ]
+    },
+    "subject": [
+      "knob"
+    ],
+    "angle": "standard",
+    "shows": "the Knob alone, turned",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "part-knob-shaft.jpg",
+    "group": "parts",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_3/20261001_180725.jpg",
+      "sha256": "26e394c1056d200741ac21674aca1fad12ee08a49a58f16f372b769667135eae",
+      "pixels": [
+        5999,
+        3374
+      ],
+      "imported_sha256": "349253e0792e2a617088dad4dad50c32ce1994b64ae482537c8a04ee931284c6"
+    },
+    "subject": [
+      "knob"
+    ],
+    "angle": "standard",
+    "shows": "the Knob on its side, the keyed shaft toward the camera",
+    "crop": [
+      2259,
+      1562,
+      3859,
+      2629
+    ],
+    "use": "guide",
+    "alt_status": "draft",
+    "crop_by": "mat"
+  },
+  {
+    "name": "part-lid-top.jpg",
+    "group": "parts",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_3/20261001_180737.jpg",
+      "sha256": "2d1be33a5758b4fa1ea28c3630ad6e8b8ff65dd227ac3ffb9ae96856f070d148",
+      "pixels": [
+        5999,
+        3374
+      ],
+      "imported_sha256": "cae2b89a277584eac73119c84a101ce4ffacde89d76c0d8cceb0b50038591878"
+    },
+    "subject": [
+      "lid"
+    ],
+    "angle": "top",
+    "shows": "the Lid from above: the large round hole and the small post hole",
+    "crop": [
+      2222,
+      1296,
+      3843,
+      2377
+    ],
+    "use": "guide",
+    "alt_status": "draft",
+    "crop_by": "mat"
+  },
+  {
+    "name": "part-lid-top-b.jpg",
+    "group": "parts",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_3/20261001_180744-2.jpg",
+      "sha256": "1e61f6f538e2aea4333d2b0aa6e68105b429707083e3d85f48a22a1291706ec5",
+      "pixels": [
+        5999,
+        3374
+      ]
+    },
+    "subject": [
+      "lid"
+    ],
+    "angle": "top",
+    "shows": "the Lid from above, turned",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "part-lid-underside.jpg",
+    "group": "parts",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_3/20261001_180744.jpg",
+      "sha256": "6c0ce38ff9655528f240b19713d12760f22e59e0f2d7e877b4fcdd064e05c6a3",
+      "pixels": [
+        5999,
+        3374
+      ],
+      "imported_sha256": "a258fb718a4dc12645a2db25b86ac9e33df23843e3cdaf9499e0bc1876952f95"
+    },
+    "subject": [
+      "lid"
+    ],
+    "angle": "top",
+    "shows": "the Lid turned over, rim and post up; confirmed on import",
+    "crop": [
+      2198,
+      1296,
+      3853,
+      2399
+    ],
+    "use": "guide",
+    "alt_status": "draft",
+    "crop_by": "mat"
+  },
+  {
+    "name": "part-handle-standard.jpg",
+    "group": "parts",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_3/20261001_180753.jpg",
+      "sha256": "b0521958ae33683f5f35daebce4ad5c2d8ce11d14f247ad3f4c323427bc51831",
+      "pixels": [
+        5999,
+        3374
+      ],
+      "imported_sha256": "928fa976b3541c0acbd85698bb8078fef1c9240c3ec823df8625f5689a63cc81"
+    },
+    "subject": [
+      "handle"
+    ],
+    "angle": "standard",
+    "shows": "the Handle alone, L shape flat on the mat, socket toward the camera",
+    "crop": [
+      1985,
+      1287,
+      3736,
+      2454
+    ],
+    "use": "guide",
+    "alt_status": "draft",
+    "crop_by": "mat"
+  },
+  {
+    "name": "part-handle-turned-a.jpg",
+    "group": "parts",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_3/20261001_180757.jpg",
+      "sha256": "2741ad4abade3c588e715cf2bb94b7f402bdfba3cd5be7af8bc2b7658c2222c6",
+      "pixels": [
+        5999,
+        3374
+      ]
+    },
+    "subject": [
+      "handle"
+    ],
+    "angle": "standard",
+    "shows": "the Handle turned",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "part-handle-turned-b.jpg",
+    "group": "parts",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_3/20261001_180801.jpg",
+      "sha256": "e69278eef84b006d7c1fa2eefcf984b9b4fdedefff2ee1fab636d5bd9af5395d",
+      "pixels": [
+        5999,
+        3374
+      ]
+    },
+    "subject": [
+      "handle"
+    ],
+    "angle": "standard",
+    "shows": "the Handle turned",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "part-handle-on-end.jpg",
+    "group": "parts",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_3/20261001_180811.jpg",
+      "sha256": "02890f1dedadb0dae2f0d8f8b952a6c67242746454e1c6f5826f8b124755d481",
+      "pixels": [
+        5999,
+        3374
+      ],
+      "imported_sha256": "cbbd065847621c00c7be64619104852030d004ffcbb9528f50ee6812ad2cafd4"
+    },
+    "subject": [
+      "handle"
+    ],
+    "angle": "standard",
+    "shows": "the Handle standing on its grip, the socket up",
+    "crop": [
+      1773,
+      807,
+      4368,
+      2537
+    ],
+    "use": "guide",
+    "alt_status": "draft",
+    "crop_by": "mat"
+  },
+  {
+    "name": "part-handle-socket-up.jpg",
+    "group": "parts",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_3/20261001_180817.jpg",
+      "sha256": "a27c3c3af72aef9276d98d92f6e6167cb7f7b5dc320f2b6b0a0aa37a440ee789",
+      "pixels": [
+        5999,
+        3374
+      ]
+    },
+    "subject": [
+      "handle"
+    ],
+    "angle": "standard",
+    "shows": "the Handle flat, the socket opening toward the camera",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "part-handle-on-end-b.jpg",
+    "group": "parts",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_3/20261001_180823.jpg",
+      "sha256": "b61fc603fb16eecab62c26c500ea93a173b6c099e466ac6700fa5e1ddaa9e81a",
+      "pixels": [
+        5999,
+        3374
+      ]
+    },
+    "subject": [
+      "handle"
+    ],
+    "angle": "standard",
+    "shows": "the Handle standing, another angle",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "stage-gear-alone-first.jpg",
+    "group": "stages",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_4/20261001_180833.jpg",
+      "sha256": "b5685ad2a19d2c0de9ff086234581877bfd0ab29b8db0282e59c4b331ef6d076",
+      "pixels": [
+        5999,
+        3374
+      ]
+    },
+    "subject": [
+      "gear"
+    ],
+    "angle": "standard",
+    "shows": "the first gear alone on the mat",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "stage-gear-beside-cylinder-first.jpg",
+    "group": "stages",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_4/20261001_180853.jpg",
+      "sha256": "2db08dcc2d79146554c4ac606f626e55433e5dd45e87795f0f28aa8e4fcc1e4c",
+      "pixels": [
+        5999,
+        3374
+      ],
+      "imported_sha256": "9bd9ad4e5468c06db47fcc9b5e875f52c67d4bab142dc2d4346dab357cedba86"
+    },
+    "subject": [
+      "gear",
+      "cylinder"
+    ],
+    "angle": "standard",
+    "shows": "a gear beside its cylinder, the cylinder standing",
+    "crop": [
+      2238,
+      1298,
+      3888,
+      2398
+    ],
+    "use": "guide",
+    "alt_status": "draft",
+    "crop_by": "mat"
+  },
+  {
+    "name": "stage-first-gear-on-cylinder-lying.jpg",
+    "group": "stages",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_4/20261001_180902.jpg",
+      "sha256": "e0dcc852b38fca3f1f5b7e940b9b7ffc542577d46f53bf6de034630d2a674edf",
+      "pixels": [
+        5999,
+        3374
+      ]
+    },
+    "subject": [
+      "gear",
+      "cylinder"
+    ],
+    "angle": "standard",
+    "shows": "the cylinder lying on the mat with its first gear on one end",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "stage-cylinder-standing-on-first-gear.jpg",
+    "group": "stages",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_4/20261001_180909.jpg",
+      "sha256": "436d8d50ca54aebd1d27b85a6ca7b7c0b922d8a841d3d54a2afa78186a5007b0",
+      "pixels": [
+        5999,
+        3374
+      ],
+      "imported_sha256": "2751708f7b72b9ded2d23c7d9498752f065811b6ebfa3b5c6af258425184023c"
+    },
+    "subject": [
+      "gear",
+      "cylinder"
+    ],
+    "angle": "standard",
+    "shows": "the cylinder standing on its first gear, the free keyhole up",
+    "crop": [
+      2137,
+      1304,
+      4026,
+      2564
+    ],
+    "use": "spare",
+    "alt_status": "none",
+    "crop_by": "mat"
+  },
+  {
+    "name": "stage-second-gear-beside-cylinder-first.jpg",
+    "group": "stages",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_4/20261001_180923.jpg",
+      "sha256": "6d85fa2cf7d3aba9743bbad36eabf205a2b25331f62674165fc25087ca3d6bd2",
+      "pixels": [
+        5999,
+        3374
+      ],
+      "imported_sha256": "ecd081d5f08d3525a584cf2b7e46817be4d040d88752034c14ed22433031aef2"
+    },
+    "subject": [
+      "gear",
+      "cylinder"
+    ],
+    "angle": "standard",
+    "shows": "the cylinder on its first gear, the second gear beside it",
+    "crop": [
+      2613,
+      1237,
+      4502,
+      2497
+    ],
+    "use": "spare",
+    "alt_status": "none",
+    "crop_by": "mat"
+  },
+  {
+    "name": "stage-first-roller-lying.jpg",
+    "group": "stages",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_4/20261001_180939.jpg",
+      "sha256": "ec47ea8956844001a35a8f1102d167d7944fc3afd57492a8021217f2ae9a3de6",
+      "pixels": [
+        5999,
+        3374
+      ]
+    },
+    "subject": [
+      "gear",
+      "cylinder"
+    ],
+    "angle": "standard",
+    "shows": "the first finished roller lying on the mat, a gear at each end",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "stage-gear-alone-second.jpg",
+    "group": "stages",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_4/20261001_180957.jpg",
+      "sha256": "10444149ef930721339f923b4660b0ce3025a6844ac071d8003efa3d0d5ee4c4",
+      "pixels": [
+        5999,
+        3374
+      ]
+    },
+    "subject": [
+      "gear"
+    ],
+    "angle": "standard",
+    "shows": "the first gear of the second roller alone",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "stage-gear-beside-cylinder-second.jpg",
+    "group": "stages",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_4/20261001_181007.jpg",
+      "sha256": "2fb325bcb9fb0c019c115f867618f12786048c211ffd6eb059db95c87422b541",
+      "pixels": [
+        5999,
+        3374
+      ],
+      "imported_sha256": "2c66b8a218be4266f281b55f5946fe7ef4f41b83b5d2d326ee06502bce716cfc"
+    },
+    "subject": [
+      "gear",
+      "cylinder"
+    ],
+    "angle": "standard",
+    "shows": "a gear beside the second cylinder",
+    "crop": [
+      2220,
+      1379,
+      3921,
+      2512
+    ],
+    "use": "guide",
+    "alt_status": "draft",
+    "crop_by": "mat"
+  },
+  {
+    "name": "stage-second-cylinder-standing-on-first-gear.jpg",
+    "group": "stages",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_4/20261001_181012.jpg",
+      "sha256": "a8fb1416bd86c67db5e92e26c0e623f511c86ce98a4aea92ee1439a76bea841b",
+      "pixels": [
+        5999,
+        3374
+      ],
+      "imported_sha256": "b2645ec6884163ccf0e2666678de89bc990ce9be34e9b61876b1b554dd4cf482"
+    },
+    "subject": [
+      "gear",
+      "cylinder"
+    ],
+    "angle": "standard",
+    "shows": "the second cylinder standing on its first gear",
+    "crop": [
+      1709,
+      1188,
+      3712,
+      2523
+    ],
+    "use": "spare",
+    "alt_status": "none",
+    "crop_by": "mat"
+  },
+  {
+    "name": "stage-second-cylinder-lying-gear-on.jpg",
+    "group": "stages",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_4/20261001_181019.jpg",
+      "sha256": "8f685f190dc29a66add8016c404628863240b87bf31e6a760c47887c89ac9053",
+      "pixels": [
+        5999,
+        3374
+      ]
+    },
+    "subject": [
+      "gear",
+      "cylinder"
+    ],
+    "angle": "standard",
+    "shows": "the second cylinder lying with one gear on",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "stage-second-cylinder-standing-on-gear-b.jpg",
+    "group": "stages",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_4/20261001_181026.jpg",
+      "sha256": "f02f17f8104f28c397f78a3a32c2094f52c0850cf8115a57ce7b3c399d1843ed",
+      "pixels": [
+        5999,
+        3374
+      ]
+    },
+    "subject": [
+      "gear",
+      "cylinder"
+    ],
+    "angle": "standard",
+    "shows": "the second cylinder standing on its gear, another frame",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "stage-second-gear-beside-cylinder-second.jpg",
+    "group": "stages",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_4/20261001_181035.jpg",
+      "sha256": "7c100d77d64af4e321603f35e23155b2351082796c1d52675ab696707e36b988",
+      "pixels": [
+        5999,
+        3374
+      ],
+      "imported_sha256": "60960839da3570f55350d0cb923a62d10bac128999de1545b254cb6f8ff12563"
+    },
+    "subject": [
+      "gear",
+      "cylinder"
+    ],
+    "angle": "standard",
+    "shows": "the second cylinder on its first gear, its second gear beside it",
+    "crop": [
+      2017,
+      968,
+      4071,
+      2337
+    ],
+    "use": "guide",
+    "alt_status": "draft",
+    "crop_by": "mat"
+  },
+  {
+    "name": "stage-second-roller-standing.jpg",
+    "group": "stages",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_4/20261001_181040.jpg",
+      "sha256": "b57e7ba878509b283892d6413356d75d07916628da26889016d32e2fdb1ea28a",
+      "pixels": [
+        5999,
+        3374
+      ],
+      "imported_sha256": "4228c81c4c6799689d4384768a4ee94a964295863eb2c15f5fe79c715cd3c7f9"
+    },
+    "subject": [
+      "gear",
+      "cylinder"
+    ],
+    "angle": "standard",
+    "shows": "the second finished roller standing",
+    "crop": [
+      1579,
+      682,
+      3872,
+      2211
+    ],
+    "use": "guide",
+    "alt_status": "draft",
+    "crop_by": "mat"
+  },
+  {
+    "name": "stage-roller-lying-a.jpg",
+    "group": "stages",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_4/20261001_181047.jpg",
+      "sha256": "9464035480d3921706d8aad198c12969e4752bb816967eb498406b8a12337d80",
+      "pixels": [
+        5999,
+        3374
+      ]
+    },
+    "subject": [
+      "gear",
+      "cylinder"
+    ],
+    "angle": "standard",
+    "shows": "a finished roller lying on the mat",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "stage-roller-lying-b.jpg",
+    "group": "stages",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_4/20261001_181050.jpg",
+      "sha256": "28369bdc904cf1c7e5c0931f80eff347a0fb0a49336272c396bfb943b7b4cf16",
+      "pixels": [
+        5999,
+        3374
+      ]
+    },
+    "subject": [
+      "gear",
+      "cylinder"
+    ],
+    "angle": "standard",
+    "shows": "a finished roller lying, turned",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "stage-roller-standing-b.jpg",
+    "group": "stages",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_4/20261001_181055.jpg",
+      "sha256": "1972e6b3262b97e77333e222266ac885d947db542a591b9cbc441f764ec2d029",
+      "pixels": [
+        5999,
+        3374
+      ]
+    },
+    "subject": [
+      "gear",
+      "cylinder"
+    ],
+    "angle": "standard",
+    "shows": "a finished roller standing",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "stage-rollers-paired.jpg",
+    "group": "stages",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_4/20261001_181109.jpg",
+      "sha256": "2309033624fa894e952043289305204c3d7a35515fa55350522d3d323bf90281",
+      "pixels": [
+        5999,
+        3374
+      ],
+      "imported_sha256": "3e600f0a0bbee61e7a35055de3f9eeec6831a0ed7088ebe6ae7ad6c75d43d5ac"
+    },
+    "subject": [
+      "cylinder-a",
+      "cylinder-b",
+      "gear"
+    ],
+    "angle": "standard",
+    "shows": "both rollers standing together, their top gears meshed",
+    "crop": [
+      1948,
+      786,
+      4065,
+      2197
+    ],
+    "use": "spare",
+    "alt_status": "none",
+    "crop_by": "mat"
+  },
+  {
+    "name": "stage-rollers-beside-base.jpg",
+    "group": "stages",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_4/20261001_181126.jpg",
+      "sha256": "9826dfb4921446730516d98d12a3e5a976bedad3ea4be9a33bfdf09a557c7d53",
+      "pixels": [
+        7653,
+        4305
+      ],
+      "imported_sha256": "8f1f4113f53dba775e976875c9848cc0adbb3a2d922c711b3444fbf5dc19c183"
+    },
+    "subject": [
+      "base",
+      "cylinder-a",
+      "cylinder-b"
+    ],
+    "angle": "standard",
+    "shows": "the paired rollers standing in front of the Base, window toward the camera",
+    "crop": [
+      1250,
+      382,
+      6345,
+      3778
+    ],
+    "use": "spare",
+    "alt_status": "none",
+    "crop_by": "mat"
+  },
+  {
+    "name": "stage-rollers-in-base.jpg",
+    "group": "stages",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_4/20261001_181144.jpg",
+      "sha256": "25928535664bb3970889da91181fecd24f4b2f436e032438b31528739b3744db",
+      "pixels": [
+        7653,
+        4305
+      ],
+      "imported_sha256": "a82391a5eae13380670e469a38878df1d44e5764191b578ac463ac45b0f7e11b"
+    },
+    "subject": [
+      "base",
+      "cylinder-a",
+      "cylinder-b"
+    ],
+    "angle": "standard",
+    "shows": "both rollers seated in the Base, gears showing above the rim",
+    "crop": [
+      2491,
+      830,
+      5496,
+      2833
+    ],
+    "use": "guide",
+    "alt_status": "draft",
+    "crop_by": "mat"
+  },
+  {
+    "name": "stage-knob-on-gear-no-lid.jpg",
+    "group": "stages",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_4/20261001_181153.jpg",
+      "sha256": "02fc78b6fd81067ab5af0e81eab4e117317f138835b745072da7da13ca8be5c6",
+      "pixels": [
+        7653,
+        4305
+      ],
+      "imported_sha256": "3badfc289d39b9a5d8b09c4e46033cab98849bfce45d23103b287fa4e8b5d5ca"
+    },
+    "subject": [
+      "base",
+      "knob"
+    ],
+    "angle": "standard",
+    "shows": "the Knob seated on Top Gear A, no Lid yet",
+    "crop": [
+      2341,
+      1355,
+      5378,
+      3380
+    ],
+    "use": "guide",
+    "alt_status": "draft",
+    "crop_by": "mat"
+  },
+  {
+    "name": "stage-knob-on-lid-beside.jpg",
+    "group": "stages",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_4/20261001_181159.jpg",
+      "sha256": "34e46228229f106b5a020ff9f8d42954ff28b729e01c90648722a32f4e271594",
+      "pixels": [
+        7653,
+        4305
+      ],
+      "imported_sha256": "f3cadc871839a019a1435fae0344fcafa99aac52e04533a002575adab00d0ca0"
+    },
+    "subject": [
+      "base",
+      "knob",
+      "lid"
+    ],
+    "angle": "standard",
+    "shows": "the Knob on, the Lid lying in front of the Base",
+    "crop": [
+      1186,
+      425,
+      6409,
+      3907
+    ],
+    "use": "spare",
+    "alt_status": "none",
+    "crop_by": "mat"
+  },
+  {
+    "name": "stage-lid-on.jpg",
+    "group": "stages",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_4/20261001_181204.jpg",
+      "sha256": "12adea4906ecffedea34a2c3479a3048d98ec18431c67e56c9a89ae4d63514c9",
+      "pixels": [
+        8205,
+        4615
+      ],
+      "imported_sha256": "c10feed330df57d66af6eba1f9621248361463c770b744cec4683d6f95203dd9"
+    },
+    "subject": [
+      "base",
+      "knob",
+      "lid"
+    ],
+    "angle": "standard",
+    "shows": "the Lid pressed on over the Knob",
+    "crop": [
+      2415,
+      1138,
+      5861,
+      3435
+    ],
+    "use": "guide",
+    "alt_status": "draft",
+    "crop_by": "mat"
+  },
+  {
+    "name": "stage-lid-on-b.jpg",
+    "group": "stages",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_4/20261001_181208.jpg",
+      "sha256": "653d5477d91e0adb655a4e59ee7cac9645bfca6cdbfe0878a808282144bdd1af",
+      "pixels": [
+        8205,
+        4615
+      ]
+    },
+    "subject": [
+      "base",
+      "knob",
+      "lid"
+    ],
+    "angle": "standard",
+    "shows": "as the previous photo",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "stage-handle-beside.jpg",
+    "group": "stages",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_4/20261001_181216.jpg",
+      "sha256": "cfc026950ba66505a75a67549479e976229ec6a4a854bc2cf811032e6e7f3328",
+      "pixels": [
+        8205,
+        4615
+      ],
+      "imported_sha256": "b34858b9b30af976e2762c96cc07edf684eb80cd4c86bafc78c360af96f7a1ff"
+    },
+    "subject": [
+      "base",
+      "knob",
+      "lid",
+      "handle"
+    ],
+    "angle": "standard",
+    "shows": "Lid and Knob on, the Handle lying in front of the Base",
+    "crop": [
+      1579,
+      868,
+      6851,
+      4383
+    ],
+    "use": "spare",
+    "alt_status": "none",
+    "crop_by": "mat"
+  },
+  {
+    "name": "stage-handle-beside-b.jpg",
+    "group": "stages",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_4/20261001_181217.jpg",
+      "sha256": "4e8a4f3b2df4279666be536f3ec35813cc22ca764175719770acf5a663333944",
+      "pixels": [
+        8205,
+        4615
+      ]
+    },
+    "subject": [
+      "base",
+      "knob",
+      "lid",
+      "handle"
+    ],
+    "angle": "standard",
+    "shows": "as the previous photo",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "stage-handle-on.jpg",
+    "group": "stages",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_4/20261001_181225.jpg",
+      "sha256": "5ab55d86c757694c7bc160f1367c76bab03ad0842fb45897de37f0f7aceb1f4d",
+      "pixels": [
+        8205,
+        4615
+      ],
+      "imported_sha256": "4578840b7ad0cf36080bea504099086a61a3540ea411dbf4e36864f84b87658e"
+    },
+    "subject": [
+      "all"
+    ],
+    "angle": "standard",
+    "shows": "the Handle snapped onto the Knob: the embosser complete",
+    "crop": [
+      2078,
+      372,
+      6300,
+      3186
+    ],
+    "use": "guide",
+    "alt_status": "draft",
+    "crop_by": "mat"
+  },
+  {
+    "name": "stage-handle-on-b.jpg",
+    "group": "stages",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_4/20261001_181228.jpg",
+      "sha256": "4b5cb464a5778f9e1030ba5d15c66dd8d5a9723cdee8f9fd7cc1ec4a44b7fa24",
+      "pixels": [
+        8205,
+        4615
+      ]
+    },
+    "subject": [
+      "all"
+    ],
+    "angle": "standard",
+    "shows": "the complete embosser, another frame",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "stage-fused-rollers-pair.jpg",
+    "group": "stages",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_4/20261001_181248.jpg",
+      "sha256": "58ed958de65fd93aad82147413afc6a48adb9acb86c3fa4dcd010fef0833c351",
+      "pixels": [
+        8205,
+        4615
+      ],
+      "imported_sha256": "c8e5244b9d9dfe89dd3ab79e0613ff25abdb39656110af8edd0de05a10081029"
+    },
+    "subject": [
+      "fused-rollers"
+    ],
+    "angle": "standard",
+    "shows": "a pair of one-piece white rollers with fused gears standing together",
+    "crop": [
+      3255,
+      1629,
+      5288,
+      2985
+    ],
+    "use": "guide",
+    "alt_status": "draft",
+    "crop_by": "mat"
+  },
+  {
+    "name": "stage-fused-rollers-beside-base.jpg",
+    "group": "stages",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_4/20261001_181258.jpg",
+      "sha256": "7995b9532be129da8dd0b2a09360795dc14468dd616cc52319ed345963be46f8",
+      "pixels": [
+        8205,
+        4615
+      ]
+    },
+    "subject": [
+      "base",
+      "fused-rollers"
+    ],
+    "angle": "standard",
+    "shows": "the fused rollers in front of the Base",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "stage-fused-rollers-in-base.jpg",
+    "group": "stages",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_4/20261001_181305.jpg",
+      "sha256": "3105ce02405d3217503feee0c00b1f2aca18d46f7de8a88a5c5328245fd2e065",
+      "pixels": [
+        8205,
+        4615
+      ],
+      "imported_sha256": "21091feb47eab1870c92b43d5a1ab092bfd52e4ae1a7eb33a9f5277b99a8de4c"
+    },
+    "subject": [
+      "base",
+      "fused-rollers"
+    ],
+    "angle": "standard",
+    "shows": "the fused roller pair seated in the Base",
+    "crop": [
+      2094,
+      665,
+      6161,
+      3375
+    ],
+    "use": "guide",
+    "alt_status": "draft",
+    "crop_by": "mat"
+  },
+  {
+    "name": "stage-fused-rollers-in-base-b.jpg",
+    "group": "stages",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_4/20261001_181315.jpg",
+      "sha256": "576099325fbe95e1003917620a897eae92e6abe9faeab51f6888d1a30a8f3511",
+      "pixels": [
+        8205,
+        4615
+      ]
+    },
+    "subject": [
+      "base",
+      "fused-rollers"
+    ],
+    "angle": "standard",
+    "shows": "as the previous photo",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "stage-fused-rollers-in-base-c.jpg",
+    "group": "stages",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_4/20261001_181318.jpg",
+      "sha256": "178414c79a228876336243901214ffd802fb63c6e42a3fe39cd68097e4237f47",
+      "pixels": [
+        8205,
+        4615
+      ]
+    },
+    "subject": [
+      "base",
+      "fused-rollers"
+    ],
+    "angle": "standard",
+    "shows": "as the previous photo, turned",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "stage-fused-knob-on.jpg",
+    "group": "stages",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_4/20261001_181328.jpg",
+      "sha256": "ec2c0b2d60e963b9b3fdb13810b83d95d7ce13f0fc9200ef073791dafd46f021",
+      "pixels": [
+        8205,
+        4615
+      ]
+    },
+    "subject": [
+      "base",
+      "fused-rollers",
+      "knob"
+    ],
+    "angle": "standard",
+    "shows": "the Knob on the fused roller, no Lid",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "stage-fused-lid-on.jpg",
+    "group": "stages",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_4/20261001_181333.jpg",
+      "sha256": "c193ed0a6d430782679ae6b58304da9ed9fe0dd2211b06dea277efb5423bfddc",
+      "pixels": [
+        8205,
+        4615
+      ]
+    },
+    "subject": [
+      "base",
+      "fused-rollers",
+      "knob",
+      "lid"
+    ],
+    "angle": "standard",
+    "shows": "the Lid on over the fused rollers",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "stage-fused-handle-on.jpg",
+    "group": "stages",
+    "origin": {
+      "kind": "photo",
+      "source": "BE_V2_Style_4/20261001_181338.jpg",
+      "sha256": "a91a0a5852af42e48a477ab4c3af87d0091fd4c46de64e27a2d604090574a293",
+      "pixels": [
+        8205,
+        4615
+      ],
+      "imported_sha256": "6bb0d8185e4b5bcb8f30bebb412ab82fe1c9ddf41106399326705503959ac707"
+    },
+    "subject": [
+      "base",
+      "fused-rollers",
+      "knob",
+      "lid",
+      "handle"
+    ],
+    "angle": "standard",
+    "shows": "the embosser complete with the fused rollers",
+    "crop": [
+      2200,
+      887,
+      6353,
+      3655
+    ],
+    "use": "spare",
+    "alt_status": "none",
+    "crop_by": "mat"
+  },
+  {
+    "name": "render-part-base.png",
+    "group": "renders",
+    "origin": {
+      "kind": "render",
+      "source": "render-part-base",
+      "sha256": "c0830e17294b7878145deb481f8e832f71990eef6e5120b340016f61bfe3ba99",
+      "imported_sha256": "c0830e17294b7878145deb481f8e832f71990eef6e5120b340016f61bfe3ba99"
+    },
+    "subject": [
+      "base"
+    ],
+    "angle": "three-quarter view, the part filling the frame",
+    "shows": "Computer rendering of the Base alone, drawn from its file",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "render-part-lid.png",
+    "group": "renders",
+    "origin": {
+      "kind": "render",
+      "source": "render-part-lid",
+      "sha256": "0ef65120ec4e8b9aaa37297a06806e9afeef865f131a1479b65bbad47fd3cd36",
+      "imported_sha256": "0ef65120ec4e8b9aaa37297a06806e9afeef865f131a1479b65bbad47fd3cd36"
+    },
+    "subject": [
+      "lid"
+    ],
+    "angle": "three-quarter view, the part filling the frame",
+    "shows": "Computer rendering of the Lid alone, drawn from its file",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "render-part-top-gear-a.png",
+    "group": "renders",
+    "origin": {
+      "kind": "render",
+      "source": "render-part-top-gear-a",
+      "sha256": "0442590fe633d7f4a8f4718cc0a102f0c5d958a8dc6aae906463a45034a5e4ca",
+      "imported_sha256": "0442590fe633d7f4a8f4718cc0a102f0c5d958a8dc6aae906463a45034a5e4ca"
+    },
+    "subject": [
+      "top-gear-a"
+    ],
+    "angle": "three-quarter view, the part filling the frame",
+    "shows": "Computer rendering of the Top Gear A alone, drawn from its file",
+    "crop": null,
+    "use": "guide",
+    "alt_status": "draft"
+  },
+  {
+    "name": "render-part-bottom-gear-a.png",
+    "group": "renders",
+    "origin": {
+      "kind": "render",
+      "source": "render-part-bottom-gear-a",
+      "sha256": "b8ea68f040ec872a3aaf5797c38994f0edcb31013ca21a915e3feaf0dc053d13",
+      "imported_sha256": "b8ea68f040ec872a3aaf5797c38994f0edcb31013ca21a915e3feaf0dc053d13"
+    },
+    "subject": [
+      "bottom-gear-a"
+    ],
+    "angle": "three-quarter view, the part filling the frame",
+    "shows": "Computer rendering of the Bottom Gear A alone, drawn from its file",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "render-part-top-gear-b.png",
+    "group": "renders",
+    "origin": {
+      "kind": "render",
+      "source": "render-part-top-gear-b",
+      "sha256": "cc611cf1888e9469ac6497cc7cf2b2c4e6b890f197b098056b6652902f720c83",
+      "imported_sha256": "cc611cf1888e9469ac6497cc7cf2b2c4e6b890f197b098056b6652902f720c83"
+    },
+    "subject": [
+      "top-gear-b"
+    ],
+    "angle": "three-quarter view, the part filling the frame",
+    "shows": "Computer rendering of the Top Gear B alone, drawn from its file",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "render-part-bottom-gear-b.png",
+    "group": "renders",
+    "origin": {
+      "kind": "render",
+      "source": "render-part-bottom-gear-b",
+      "sha256": "b284cd76c0033911f15f84f47db10b65f419526a585278ed294745dd3f26674c",
+      "imported_sha256": "b284cd76c0033911f15f84f47db10b65f419526a585278ed294745dd3f26674c"
+    },
+    "subject": [
+      "bottom-gear-b"
+    ],
+    "angle": "three-quarter view, the part filling the frame",
+    "shows": "Computer rendering of the Bottom Gear B alone, drawn from its file",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "render-part-knob.png",
+    "group": "renders",
+    "origin": {
+      "kind": "render",
+      "source": "render-part-knob",
+      "sha256": "4558027971a592830e5a540baf3a056f21e9fccf2ac5322c4393257046bdff54",
+      "imported_sha256": "4558027971a592830e5a540baf3a056f21e9fccf2ac5322c4393257046bdff54"
+    },
+    "subject": [
+      "knob"
+    ],
+    "angle": "three-quarter view, the part filling the frame",
+    "shows": "Computer rendering of the Knob alone, drawn from its file",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "render-part-handle.png",
+    "group": "renders",
+    "origin": {
+      "kind": "render",
+      "source": "render-part-handle",
+      "sha256": "18f05386b214841ddd94cf4b8ea9a0f8057a773de176f32c4cf97997eb4fa4f6",
+      "imported_sha256": "18f05386b214841ddd94cf4b8ea9a0f8057a773de176f32c4cf97997eb4fa4f6"
+    },
+    "subject": [
+      "handle"
+    ],
+    "angle": "three-quarter view, the part filling the frame",
+    "shows": "Computer rendering of the Handle alone, drawn from its file",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "render-part-push-out-plate.png",
+    "group": "renders",
+    "origin": {
+      "kind": "render",
+      "source": "render-part-push-out-plate",
+      "sha256": "82a41d99b7c0153c689d542050413a40b829184f570952da369392947281b894",
+      "imported_sha256": "82a41d99b7c0153c689d542050413a40b829184f570952da369392947281b894"
+    },
+    "subject": [
+      "push-out-plate"
+    ],
+    "angle": "three-quarter view, the part filling the frame",
+    "shows": "Computer rendering of the Push-out Plate alone, drawn from its file",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "render-stage-rollers.png",
+    "group": "renders",
+    "origin": {
+      "kind": "render",
+      "source": "render-stage-rollers",
+      "sha256": "6580bb5e26be74ffe4a95b0f4a05b4b95423302cd04fc513b18ef57645be23b1",
+      "imported_sha256": "6580bb5e26be74ffe4a95b0f4a05b4b95423302cd04fc513b18ef57645be23b1"
+    },
+    "subject": [
+      "cylinder-a",
+      "cylinder-b",
+      "bottom-gear-a",
+      "bottom-gear-b",
+      "top-gear-a",
+      "top-gear-b"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of in their assembled positions: Cylinder A, Cylinder B, Bottom Gear A, Bottom Gear B, Top Gear A, Top Gear B",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "render-stage-rollers-in-base.png",
+    "group": "renders",
+    "origin": {
+      "kind": "render",
+      "source": "render-stage-rollers-in-base",
+      "sha256": "c7009060a4b1e7c409d88e080615c137b4f055975d4f920686f30d81b663907c",
+      "imported_sha256": "c7009060a4b1e7c409d88e080615c137b4f055975d4f920686f30d81b663907c"
+    },
+    "subject": [
+      "base",
+      "cylinder-a",
+      "cylinder-b",
+      "bottom-gear-a",
+      "bottom-gear-b",
+      "top-gear-a",
+      "top-gear-b"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of in their assembled positions: Base, Cylinder A, Cylinder B, Bottom Gear A, Bottom Gear B, Top Gear A, Top Gear B",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "render-stage-knob-on.png",
+    "group": "renders",
+    "origin": {
+      "kind": "render",
+      "source": "render-stage-knob-on",
+      "sha256": "3b8e9d883018e7fc7538fdd6282d07572a1e198a406666161cfb4671b9ecea72",
+      "imported_sha256": "3b8e9d883018e7fc7538fdd6282d07572a1e198a406666161cfb4671b9ecea72"
+    },
+    "subject": [
+      "base",
+      "cylinder-a",
+      "cylinder-b",
+      "bottom-gear-a",
+      "bottom-gear-b",
+      "top-gear-a",
+      "top-gear-b",
+      "knob"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of in their assembled positions: Base, Cylinder A, Cylinder B, Bottom Gear A, Bottom Gear B, Top Gear A, Top Gear B, Knob",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "render-stage-lid-on.png",
+    "group": "renders",
+    "origin": {
+      "kind": "render",
+      "source": "render-stage-lid-on",
+      "sha256": "df7f2a6d3c65759a0ab8a01fb39e8cc28d8fc56777617db007becc984eeec3cc",
+      "imported_sha256": "df7f2a6d3c65759a0ab8a01fb39e8cc28d8fc56777617db007becc984eeec3cc"
+    },
+    "subject": [
+      "base",
+      "cylinder-a",
+      "cylinder-b",
+      "bottom-gear-a",
+      "bottom-gear-b",
+      "top-gear-a",
+      "top-gear-b",
+      "knob",
+      "lid"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of in their assembled positions: Base, Cylinder A, Cylinder B, Bottom Gear A, Bottom Gear B, Top Gear A, Top Gear B, Knob, Lid",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "render-stage-complete.png",
+    "group": "renders",
+    "origin": {
+      "kind": "render",
+      "source": "render-stage-complete",
+      "sha256": "92b8467274261d0d16a7884533d21fc4775acaacce6270edbada6dcaa4e84c9a",
+      "imported_sha256": "92b8467274261d0d16a7884533d21fc4775acaacce6270edbada6dcaa4e84c9a"
+    },
+    "subject": [
+      "base",
+      "cylinder-a",
+      "cylinder-b",
+      "bottom-gear-a",
+      "bottom-gear-b",
+      "top-gear-a",
+      "top-gear-b",
+      "knob",
+      "lid",
+      "handle"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of in their assembled positions: Base, Cylinder A, Cylinder B, Bottom Gear A, Bottom Gear B, Top Gear A, Top Gear B, Knob, Lid, Handle",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "render-exploded.png",
+    "group": "renders",
+    "origin": {
+      "kind": "render",
+      "source": "render-exploded",
+      "sha256": "b9c8c5fb9780a4167f1c652c0c433459a59ad7f994b6b64f8194a75cd404a461",
+      "imported_sha256": "b9c8c5fb9780a4167f1c652c0c433459a59ad7f994b6b64f8194a75cd404a461"
+    },
+    "subject": [
+      "base",
+      "bottom-gear-a",
+      "bottom-gear-b",
+      "cylinder-a",
+      "cylinder-b",
+      "top-gear-a",
+      "top-gear-b",
+      "lid",
+      "knob",
+      "handle"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of every part lifted apart along the axis the parts go together on, the Base at the bottom",
+    "crop": null,
+    "use": "guide",
+    "alt_status": "none"
+  },
+  {
+    "name": "frame-gear-held-to-cylinder-end.jpg",
+    "group": "frames",
+    "origin": {
+      "kind": "frame",
+      "source": "Unedited Videos/20261001_181714.mp4",
+      "time": "3:30",
+      "sha256": null,
+      "imported_sha256": "872b07c970907ac4eb5b8c927925e5391895769411fa71a32dea71a42f2c5623"
+    },
+    "subject": [
+      "gear",
+      "cylinder"
+    ],
+    "angle": "overhead, from the recording",
+    "shows": "a gloved hand holds a gear to the upper end of a cylinder, peg down, the other hand holding the cylinder upright",
+    "crop": [
+      1400,
+      700,
+      3400,
+      2033
+    ],
+    "crop_by": "hand",
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "frame-gear-pressed-onto-cylinder.jpg",
+    "group": "frames",
+    "origin": {
+      "kind": "frame",
+      "source": "Unedited Videos/20261001_181714.mp4",
+      "time": "3:42",
+      "sha256": null,
+      "imported_sha256": "a8b3c6f8cb05e04d8004632752af51fe248b7092394ef7fc2c0f08cbc9049540"
+    },
+    "subject": [
+      "gear",
+      "cylinder"
+    ],
+    "angle": "overhead, from the recording",
+    "shows": "two gloved hands press a gear onto a cylinder's end",
+    "crop": [
+      1500,
+      650,
+      3500,
+      1983
+    ],
+    "crop_by": "hand",
+    "use": "guide",
+    "alt_status": "draft"
+  },
+  {
+    "name": "frame-second-gear-onto-other-end.jpg",
+    "group": "frames",
+    "origin": {
+      "kind": "frame",
+      "source": "Unedited Videos/20261001_181714.mp4",
+      "time": "3:56",
+      "sha256": null,
+      "imported_sha256": "80ee73d43331b0b27775fb6872e774114278cd5dc7c1b2c0f8dd1522ce630098"
+    },
+    "subject": [
+      "gear",
+      "cylinder"
+    ],
+    "angle": "overhead, from the recording",
+    "shows": "the cylinder turned over, its second gear being pressed onto the other end",
+    "crop": [
+      1400,
+      700,
+      3400,
+      2033
+    ],
+    "crop_by": "hand",
+    "use": "guide",
+    "alt_status": "draft"
+  },
+  {
+    "name": "frame-first-roller-complete.jpg",
+    "group": "frames",
+    "origin": {
+      "kind": "frame",
+      "source": "Unedited Videos/20261001_181714.mp4",
+      "time": "4:02",
+      "sha256": null,
+      "imported_sha256": "6ce83b4a30b49b400921fb5131300e7bdee906cc5c137f0b2905e7ad2d1c7356"
+    },
+    "subject": [
+      "cylinder",
+      "gear"
+    ],
+    "angle": "overhead, from the recording",
+    "shows": "a finished roller held up: a cylinder with a pink gear at each end",
+    "crop": [
+      1500,
+      400,
+      3500,
+      1733
+    ],
+    "crop_by": "hand",
+    "use": "guide",
+    "alt_status": "draft"
+  },
+  {
+    "name": "frame-two-rollers-side-by-side.jpg",
+    "group": "frames",
+    "origin": {
+      "kind": "frame",
+      "source": "Unedited Videos/20261001_181714.mp4",
+      "time": "4:40",
+      "sha256": null,
+      "imported_sha256": "b0b2f774696d154fca780c5d0eda401b5a7313e130d27253c8feb231c8fd4d97"
+    },
+    "subject": [
+      "cylinder-a",
+      "cylinder-b"
+    ],
+    "angle": "overhead, from the recording",
+    "shows": "both rollers held upright side by side in two hands",
+    "crop": [
+      1300,
+      500,
+      3300,
+      1833
+    ],
+    "crop_by": "hand",
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "frame-rollers-paired-from-above.jpg",
+    "group": "frames",
+    "origin": {
+      "kind": "frame",
+      "source": "Unedited Videos/20261001_181714.mp4",
+      "time": "5:30",
+      "sha256": null,
+      "imported_sha256": "c4998dd9c88f88cc42b0ec2933ff4ebd208eb7f356f60b4681aae298cab58373"
+    },
+    "subject": [
+      "cylinder-a",
+      "cylinder-b"
+    ],
+    "angle": "overhead, from the recording",
+    "shows": "the two rollers held together and seen from above, their top gears meshed",
+    "crop": [
+      1600,
+      500,
+      3600,
+      1833
+    ],
+    "crop_by": "hand",
+    "use": "guide",
+    "alt_status": "draft"
+  },
+  {
+    "name": "frame-rollers-paired-side-view.jpg",
+    "group": "frames",
+    "origin": {
+      "kind": "frame",
+      "source": "Unedited Videos/20261001_181714.mp4",
+      "time": "5:52",
+      "sha256": null,
+      "imported_sha256": "5e1d8c5239c5c07bdc82e2a5ea822a892d2abe17b13ca2a5f532d45b46be51aa"
+    },
+    "subject": [
+      "cylinder-a",
+      "cylinder-b"
+    ],
+    "angle": "overhead, from the recording",
+    "shows": "the paired rollers turned to show their sides, the two cylinders touching",
+    "crop": [
+      1300,
+      600,
+      3300,
+      1933
+    ],
+    "crop_by": "hand",
+    "use": "guide",
+    "alt_status": "draft"
+  },
+  {
+    "name": "frame-base-inside-shown.jpg",
+    "group": "frames",
+    "origin": {
+      "kind": "frame",
+      "source": "Unedited Videos/20261001_181714.mp4",
+      "time": "7:28",
+      "sha256": null,
+      "imported_sha256": "8a186330e4978eb7a8f266c2c10697825bedf85d8ec8092ddededd9f431c532d"
+    },
+    "subject": [
+      "base"
+    ],
+    "angle": "overhead, from the recording",
+    "shows": "the Base held open end toward the camera, its floor with the two posts visible",
+    "crop": [
+      1200,
+      600,
+      3200,
+      1933
+    ],
+    "crop_by": "hand",
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "frame-base-lowered-over-rollers.jpg",
+    "group": "frames",
+    "origin": {
+      "kind": "frame",
+      "source": "Unedited Videos/20261001_181714.mp4",
+      "time": "7:36",
+      "sha256": null,
+      "imported_sha256": "f147b4c4a0141b413c3cdaba436a6c5afbb1d62e56b01838346aab573efc6f1c"
+    },
+    "subject": [
+      "base",
+      "cylinder-a",
+      "cylinder-b"
+    ],
+    "angle": "overhead, from the recording",
+    "shows": "the roller pair held upright in one hand while the other brings the Base down over it",
+    "crop": [
+      1400,
+      300,
+      3400,
+      1633
+    ],
+    "crop_by": "hand",
+    "use": "spare",
+    "alt_status": "draft"
+  },
+  {
+    "name": "frame-rollers-in-base-from-above.jpg",
+    "group": "frames",
+    "origin": {
+      "kind": "frame",
+      "source": "Unedited Videos/20261001_181714.mp4",
+      "time": "7:42",
+      "sha256": null,
+      "imported_sha256": "0371c325448efa0b3b783fcd54cab0755f11513e0dbaf362d6e6f5813841bd2f"
+    },
+    "subject": [
+      "base",
+      "cylinder-a",
+      "cylinder-b"
+    ],
+    "angle": "overhead, from the recording",
+    "shows": "looking down into the Base with both rollers seated, the two top gears meshed",
+    "crop": [
+      1200,
+      500,
+      3200,
+      1833
+    ],
+    "crop_by": "hand",
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "frame-knob-onto-top-gear-a.jpg",
+    "group": "frames",
+    "origin": {
+      "kind": "frame",
+      "source": "Unedited Videos/20261001_181714.mp4",
+      "time": "8:08",
+      "sha256": null,
+      "imported_sha256": "dce820f5949d047b4db5efc805b9405379f242c12644f8243e16e24adcc8a0b0"
+    },
+    "subject": [
+      "base",
+      "knob"
+    ],
+    "angle": "overhead, from the recording",
+    "shows": "the Knob brought down onto the left top gear, Top Gear A, with the Lid still off",
+    "crop": [
+      1300,
+      500,
+      3300,
+      1833
+    ],
+    "crop_by": "hand",
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "frame-knob-pressed-home.jpg",
+    "group": "frames",
+    "origin": {
+      "kind": "frame",
+      "source": "Unedited Videos/20261001_181714.mp4",
+      "time": "8:16",
+      "sha256": null,
+      "imported_sha256": "d7b4740f5cc98074f8fa79c952021b1cb3fd6aa82aa8537a345b92a42bf5ec9e"
+    },
+    "subject": [
+      "base",
+      "knob"
+    ],
+    "angle": "overhead, from the recording",
+    "shows": "the Knob seated on Top Gear A, a finger pointing at it",
+    "crop": [
+      1200,
+      600,
+      3200,
+      1933
+    ],
+    "crop_by": "hand",
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "frame-lid-underside-shown.jpg",
+    "group": "frames",
+    "origin": {
+      "kind": "frame",
+      "source": "Unedited Videos/20261001_181714.mp4",
+      "time": "9:06",
+      "sha256": null,
+      "imported_sha256": "d04d8e56727a4ab6976ece4c4e841c57840fb4ed2b7361b013d161cf0fedd4b7"
+    },
+    "subject": [
+      "lid"
+    ],
+    "angle": "overhead, from the recording",
+    "shows": "the Lid held up by one hand, its underside with the post toward the camera",
+    "crop": [
+      1500,
+      200,
+      3500,
+      1533
+    ],
+    "crop_by": "hand",
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "frame-lid-pressed-on.jpg",
+    "group": "frames",
+    "origin": {
+      "kind": "frame",
+      "source": "Unedited Videos/20261001_181714.mp4",
+      "time": "9:42",
+      "sha256": null,
+      "imported_sha256": "0326a6a44b8328e2370bd1c9240b6236b8f584e209719850466d3ad3f65b9d45"
+    },
+    "subject": [
+      "base",
+      "lid",
+      "knob"
+    ],
+    "angle": "overhead, from the recording",
+    "shows": "two hands press the Lid down onto the Base, the Knob standing through the Lid's hole",
+    "crop": [
+      1200,
+      500,
+      3200,
+      1833
+    ],
+    "crop_by": "hand",
+    "use": "guide",
+    "alt_status": "draft"
+  },
+  {
+    "name": "frame-handle-over-knob.jpg",
+    "group": "frames",
+    "origin": {
+      "kind": "frame",
+      "source": "Unedited Videos/20261001_181714.mp4",
+      "time": "9:54",
+      "sha256": null,
+      "imported_sha256": "70a195a426a5c59d69b3d66469abb7e102d5413fd2425d91976bf56170050d0e"
+    },
+    "subject": [
+      "base",
+      "lid",
+      "knob",
+      "handle"
+    ],
+    "angle": "overhead, from the recording",
+    "shows": "the Handle held above the Knob, its socket lined up with the Knob's tab",
+    "crop": [
+      1200,
+      300,
+      3200,
+      1633
+    ],
+    "crop_by": "hand",
+    "use": "guide",
+    "alt_status": "draft"
+  },
+  {
+    "name": "frame-handle-snapped-on.jpg",
+    "group": "frames",
+    "origin": {
+      "kind": "frame",
+      "source": "Unedited Videos/20261001_181714.mp4",
+      "time": "10:04",
+      "sha256": null,
+      "imported_sha256": "f87b4cfd57244de0be52e2a8cb03ffa084c40c5acf831db5d0511c3b57d43f11"
+    },
+    "subject": [
+      "all"
+    ],
+    "angle": "overhead, from the recording",
+    "shows": "the Handle pushed onto the Knob; the embosser complete, held in one hand",
+    "crop": [
+      1100,
+      300,
+      3100,
+      1633
+    ],
+    "crop_by": "hand",
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "frame-card-into-slit.jpg",
+    "group": "frames",
+    "origin": {
+      "kind": "frame",
+      "source": "Unedited Videos/20261001_181714.mp4",
+      "time": "11:46",
+      "sha256": null,
+      "imported_sha256": "f739ebfcbc58e269ed8e1e45fe9bb89eef545dbd36d1238e85607b7b0f8a5e65"
+    },
+    "subject": [
+      "all",
+      "card"
+    ],
+    "angle": "overhead, from the recording",
+    "shows": "the embosser on its side, window toward the viewer; a gloved hand pushes a card into the slit from the far side",
+    "crop": [
+      1200,
+      600,
+      3200,
+      1933
+    ],
+    "crop_by": "hand",
+    "use": "guide",
+    "alt_status": "draft"
+  },
+  {
+    "name": "frame-card-half-way-in.jpg",
+    "group": "frames",
+    "origin": {
+      "kind": "frame",
+      "source": "Unedited Videos/20261001_181714.mp4",
+      "time": "11:58",
+      "sha256": null,
+      "imported_sha256": "3dc196eebaf760b3e7f1420c67ef5c0816eeb10679524e127be5bc51217c5144"
+    },
+    "subject": [
+      "all",
+      "card"
+    ],
+    "angle": "overhead, from the recording",
+    "shows": "the card standing in the slit about half way in while the other hand turns the Handle",
+    "crop": [
+      1200,
+      600,
+      3200,
+      1933
+    ],
+    "crop_by": "hand",
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "frame-embossed-card-held-up.jpg",
+    "group": "frames",
+    "origin": {
+      "kind": "frame",
+      "source": "Unedited Videos/20261001_181714.mp4",
+      "time": "12:34",
+      "sha256": null,
+      "imported_sha256": "ef5372947e2d63561cf552c170bf43649b39dc36d94ffb583cef5b34da34825d"
+    },
+    "subject": [
+      "card"
+    ],
+    "angle": "overhead, from the recording",
+    "shows": "the embossed card held up to the camera after it came out",
+    "crop": [
+      1400,
+      150,
+      3400,
+      1483
+    ],
+    "crop_by": "hand",
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "frame-lid-knob-handle-lift-off.jpg",
+    "group": "frames",
+    "origin": {
+      "kind": "frame",
+      "source": "Unedited Videos/20261001_181714.mp4",
+      "time": "12:46",
+      "sha256": null
+    },
+    "subject": [
+      "base",
+      "lid",
+      "knob",
+      "handle"
+    ],
+    "angle": "overhead, from the recording",
+    "shows": "the Lid lifted off the Base with the Knob and Handle still attached to it; the hands hide the parts, so a posed photo is asked for instead",
+    "crop": [
+      1200,
+      500,
+      3200,
+      1833
+    ],
+    "crop_by": "hand",
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "frame-base-onto-push-out-plate.jpg",
+    "group": "frames",
+    "origin": {
+      "kind": "frame",
+      "source": "Unedited Videos/20261001_181714.mp4",
+      "time": "12:50",
+      "sha256": null,
+      "imported_sha256": "08f5acaa42d7c763a9ee44e0b3e5beab0b4827fc3ad846f264d8b6ceb5151167"
+    },
+    "subject": [
+      "base",
+      "push-out-plate"
+    ],
+    "angle": "overhead, from the recording",
+    "shows": "the Base, rollers inside, set down onto the Push-out Plate",
+    "crop": [
+      900,
+      700,
+      2900,
+      2033
+    ],
+    "crop_by": "hand",
+    "use": "guide",
+    "alt_status": "draft"
+  },
+  {
+    "name": "frame-rollers-rise-from-base.jpg",
+    "group": "frames",
+    "origin": {
+      "kind": "frame",
+      "source": "Unedited Videos/20261001_181714.mp4",
+      "time": "12:56",
+      "sha256": null,
+      "imported_sha256": "a19471e7f1ff732899807d5a473d2db6da77e0e32d81451d82b84ae83428d6e4"
+    },
+    "subject": [
+      "base",
+      "cylinder-a",
+      "cylinder-b",
+      "push-out-plate"
+    ],
+    "angle": "overhead, from the recording",
+    "shows": "the rollers lifted up out of the Base together, pushed by the Plate's pegs",
+    "crop": [
+      1200,
+      700,
+      3200,
+      2033
+    ],
+    "crop_by": "hand",
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "frame-empty-base-on-plate.jpg",
+    "group": "frames",
+    "origin": {
+      "kind": "frame",
+      "source": "Unedited Videos/20261001_181714.mp4",
+      "time": "13:10",
+      "sha256": null,
+      "imported_sha256": "ae3de41c9edc7fdc0c8a71b268d602f77a39f47a28ce7f42c755d042947e1362"
+    },
+    "subject": [
+      "base",
+      "push-out-plate"
+    ],
+    "angle": "overhead, from the recording",
+    "shows": "the empty Base standing on the Push-out Plate, the pegs showing through its floor",
+    "crop": [
+      900,
+      600,
+      2900,
+      1933
+    ],
+    "crop_by": "hand",
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "frame-card-rolled-back-out.jpg",
+    "group": "frames",
+    "origin": {
+      "kind": "frame",
+      "source": "Unedited Videos/20261001_181714.mp4",
+      "time": "12:22",
+      "sha256": null,
+      "imported_sha256": "3179bd247707484f67878883dff7fa1755d9ac3d27485cf782ff98046c119434"
+    },
+    "subject": [
+      "all",
+      "card"
+    ],
+    "angle": "overhead, from the recording",
+    "shows": "the embossed card rolled back out of the slit, dots raised, the large arrow on the tower pointing toward the Handle",
+    "crop": [
+      1200,
+      600,
+      3200,
+      1933
+    ],
+    "crop_by": "hand",
+    "use": "guide",
+    "alt_status": "draft"
+  },
+  {
+    "name": "render-base-back.png",
+    "group": "renders",
+    "origin": {
+      "kind": "render",
+      "source": "render-base-back",
+      "sha256": "11f546fd11ce76fa959acc17eab72936b38bf0fad9fbd5486621429b3ce4e0e5",
+      "imported_sha256": "11f546fd11ce76fa959acc17eab72936b38bf0fad9fbd5486621429b3ce4e0e5"
+    },
+    "subject": [
+      "base"
+    ],
+    "angle": "three-quarter view from the side the name says",
+    "shows": "Computer rendering of the Base from behind: the slit down the back wall and, on its right-hand side, the large arrow pointing up",
+    "crop": null,
+    "use": "guide",
+    "alt_status": "draft"
+  },
+  {
+    "name": "render-base-right-side.png",
+    "group": "renders",
+    "origin": {
+      "kind": "render",
+      "source": "render-base-right-side",
+      "sha256": "eb0cde903b1944b47a8d4084fc1765a8a575f2d8482969c95a6770a7f3adbcde",
+      "imported_sha256": "eb0cde903b1944b47a8d4084fc1765a8a575f2d8482969c95a6770a7f3adbcde"
+    },
+    "subject": [
+      "base"
+    ],
+    "angle": "three-quarter view from the side the name says",
+    "shows": "Computer rendering of the Base's right-hand side: the long arrow pointing round to the window and the large arrow pointing up beside the slit",
+    "crop": null,
+    "use": "guide",
+    "alt_status": "draft"
+  },
+  {
+    "name": "render-pictogram-page.png",
+    "group": "renders",
+    "origin": {
+      "kind": "render",
+      "source": "render-pictogram-page",
+      "sha256": "82e94d4a538b12f93e388b260dcfc65be710c869e1ae36ef7502b9d11f04a84f",
+      "imported_sha256": "82e94d4a538b12f93e388b260dcfc65be710c869e1ae36ef7502b9d11f04a84f"
+    },
+    "subject": [
+      "base",
+      "bottom-gear-a",
+      "bottom-gear-b",
+      "cylinder-a",
+      "cylinder-b",
+      "handle",
+      "knob",
+      "lid",
+      "top-gear-a",
+      "top-gear-b"
+    ],
+    "angle": "nine three-quarter views in a grid, each fitted to its frame",
+    "shows": "Computer rendering of the assembly as nine numbered pictures without words, left to right and top to bottom: Cylinder A alone; its top gear on; its bottom gear on; Roller B built; the two rollers paired; the pair in the Base; the Knob on; the Lid on; the Handle on",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "draft"
+  },
+  {
+    "name": "render-step-01-moving.png",
+    "group": "renders",
+    "origin": {
+      "kind": "render",
+      "source": "render-step-01-moving",
+      "sha256": "9b76d8f0700bcc31aa567fbf777e6bac0f5a1787284562922ec3068f08da81d8",
+      "imported_sha256": "9b76d8f0700bcc31aa567fbf777e6bac0f5a1787284562922ec3068f08da81d8"
+    },
+    "subject": [
+      "cylinder-a"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of step 1, Cylinder A: the moving part half way along its travel to its seat",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "render-step-02-moving.png",
+    "group": "renders",
+    "origin": {
+      "kind": "render",
+      "source": "render-step-02-moving",
+      "sha256": "16dca8fa76206235a39313178fd4c0c85351881ff275496ee19af8b3a8271173",
+      "imported_sha256": "16dca8fa76206235a39313178fd4c0c85351881ff275496ee19af8b3a8271173"
+    },
+    "subject": [
+      "top-gear-a"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of step 2, Top Gear A: the moving part half way along its travel to its seat",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "render-step-03-moving.png",
+    "group": "renders",
+    "origin": {
+      "kind": "render",
+      "source": "render-step-03-moving",
+      "sha256": "1a77d9cd1eac66d471336c58e724a94a44b569a5a549be29147200bde10dbac2",
+      "imported_sha256": "1a77d9cd1eac66d471336c58e724a94a44b569a5a549be29147200bde10dbac2"
+    },
+    "subject": [
+      "bottom-gear-a"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of step 3, Bottom Gear A: the moving part half way along its travel to its seat",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "render-step-04-moving.png",
+    "group": "renders",
+    "origin": {
+      "kind": "render",
+      "source": "render-step-04-moving",
+      "sha256": "69e6c6f31a075703d7602170b8df837787925f038542a44dd3f3f1373f53bbfd",
+      "imported_sha256": "69e6c6f31a075703d7602170b8df837787925f038542a44dd3f3f1373f53bbfd"
+    },
+    "subject": [
+      "cylinder-b"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of step 4, Cylinder B: the moving part half way along its travel to its seat",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "render-step-05-moving.png",
+    "group": "renders",
+    "origin": {
+      "kind": "render",
+      "source": "render-step-05-moving",
+      "sha256": "20e703603654cbfe88f4f2c2dfda64496e24a7b5111f66f9a2f1b6c17763a2a7",
+      "imported_sha256": "20e703603654cbfe88f4f2c2dfda64496e24a7b5111f66f9a2f1b6c17763a2a7"
+    },
+    "subject": [
+      "top-gear-b"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of step 5, Top Gear B: the moving part half way along its travel to its seat",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "render-step-06-moving.png",
+    "group": "renders",
+    "origin": {
+      "kind": "render",
+      "source": "render-step-06-moving",
+      "sha256": "a115d3c223fa82329406a4174e8b1950a9445478c45a8ec808549716a3d26818",
+      "imported_sha256": "a115d3c223fa82329406a4174e8b1950a9445478c45a8ec808549716a3d26818"
+    },
+    "subject": [
+      "bottom-gear-b"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of step 6, Bottom Gear B: the moving part half way along its travel to its seat",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "render-step-07-moving.png",
+    "group": "renders",
+    "origin": {
+      "kind": "render",
+      "source": "render-step-07-moving",
+      "sha256": "d096ffd576acfe3eaac04c2c52c0e528228a213029bd51bdcd6cb282788380a1",
+      "imported_sha256": "d096ffd576acfe3eaac04c2c52c0e528228a213029bd51bdcd6cb282788380a1"
+    },
+    "subject": [
+      "cylinder-a",
+      "top-gear-a",
+      "bottom-gear-a"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of step 7, Pair the rollers: the moving part half way along its travel to its seat",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "render-step-08-moving.png",
+    "group": "renders",
+    "origin": {
+      "kind": "render",
+      "source": "render-step-08-moving",
+      "sha256": "248f097d35a0673b4a2bb2b7e68e3c01dade7707489c06eeb080b013d9a3e745",
+      "imported_sha256": "248f097d35a0673b4a2bb2b7e68e3c01dade7707489c06eeb080b013d9a3e745"
+    },
+    "subject": [
+      "cylinder-a",
+      "top-gear-a",
+      "bottom-gear-a",
+      "cylinder-b",
+      "top-gear-b",
+      "bottom-gear-b"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of step 8, Into the Base: the moving part half way along its travel to its seat",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "render-step-09-moving.png",
+    "group": "renders",
+    "origin": {
+      "kind": "render",
+      "source": "render-step-09-moving",
+      "sha256": "8ac2c4913f47b8469fd8908818a95c70b516f3fa45d2370715f05316ad0cc68b",
+      "imported_sha256": "8ac2c4913f47b8469fd8908818a95c70b516f3fa45d2370715f05316ad0cc68b"
+    },
+    "subject": [
+      "knob"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of step 9, Knob: the moving part half way along its travel to its seat",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "render-step-10-moving.png",
+    "group": "renders",
+    "origin": {
+      "kind": "render",
+      "source": "render-step-10-moving",
+      "sha256": "38b69fc24e67fb77ec063c530a563341176f50b654ab69273deb41936102265c",
+      "imported_sha256": "38b69fc24e67fb77ec063c530a563341176f50b654ab69273deb41936102265c"
+    },
+    "subject": [
+      "lid"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of step 10, Lid: the moving part half way along its travel to its seat",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "render-step-11-moving.png",
+    "group": "renders",
+    "origin": {
+      "kind": "render",
+      "source": "render-step-11-moving",
+      "sha256": "801550af4da2b3a866bfae5d3f6860b09fc3fd6fee4e49a91ee067ea264f4da4",
+      "imported_sha256": "801550af4da2b3a866bfae5d3f6860b09fc3fd6fee4e49a91ee067ea264f4da4"
+    },
+    "subject": [
+      "handle"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of step 11, Handle: the moving part half way along its travel to its seat",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "render-step-12-moving.png",
+    "group": "renders",
+    "origin": {
+      "kind": "render",
+      "source": "render-step-12-moving",
+      "sha256": "90697dcb89e843e92245db40283631f0d3eec28833ad6700ad7ccd20014248be",
+      "imported_sha256": "90697dcb89e843e92245db40283631f0d3eec28833ad6700ad7ccd20014248be"
+    },
+    "subject": [
+      "cylinder-a",
+      "top-gear-a",
+      "bottom-gear-a",
+      "cylinder-b",
+      "top-gear-b",
+      "bottom-gear-b",
+      "base",
+      "knob",
+      "lid",
+      "handle"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of step 12, Turn to test: the moving part half way along its travel to its seat",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "none"
+  },
+  {
+    "name": "visual-parts.png",
+    "group": "visual",
+    "origin": {
+      "kind": "render",
+      "source": "visual-parts",
+      "sha256": "1a7a434048c982c7053bf51f5cc4de5df126d99388ab92b574c98702d84bbea3",
+      "imported_sha256": "1a7a434048c982c7053bf51f5cc4de5df126d99388ab92b574c98702d84bbea3"
+    },
+    "subject": [
+      "cylinder-a",
+      "top-gear-a",
+      "bottom-gear-a",
+      "cylinder-b",
+      "top-gear-b",
+      "bottom-gear-b",
+      "base",
+      "knob",
+      "lid",
+      "handle",
+      "push-out-plate"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of every part with its count, four to a row, in the order the steps use them",
+    "crop": null,
+    "use": "guide",
+    "alt_status": "draft"
+  },
+  {
+    "name": "visual-step-01.png",
+    "group": "visual",
+    "origin": {
+      "kind": "render",
+      "source": "visual-step-01",
+      "sha256": "f10b3c17091e051f7310a750fdfe5354bb0095f417a3e1ced61ff5bb32a64faa",
+      "imported_sha256": "f10b3c17091e051f7310a750fdfe5354bb0095f417a3e1ced61ff5bb32a64faa"
+    },
+    "subject": [
+      "cylinder-a"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of step 1, Cylinder A: a numbered panel with the moving part at its start, a red dashed arrow to where it goes, and the added part with its count",
+    "crop": null,
+    "use": "guide",
+    "alt_status": "draft"
+  },
+  {
+    "name": "visual-step-02.png",
+    "group": "visual",
+    "origin": {
+      "kind": "render",
+      "source": "visual-step-02",
+      "sha256": "8ab7815b37408a187f183b9bd35d880fc4b4fde82f837a638afc931a69ac9039",
+      "imported_sha256": "8ab7815b37408a187f183b9bd35d880fc4b4fde82f837a638afc931a69ac9039"
+    },
+    "subject": [
+      "top-gear-a"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of step 2, Top Gear A: a numbered panel with the moving part at its start, a red dashed arrow to where it goes, and the added part with its count",
+    "crop": null,
+    "use": "guide",
+    "alt_status": "draft"
+  },
+  {
+    "name": "visual-step-03.png",
+    "group": "visual",
+    "origin": {
+      "kind": "render",
+      "source": "visual-step-03",
+      "sha256": "896e8410745df52c1ce5e33868b6b7627faa955b0460618dc7217c415b4f1618",
+      "imported_sha256": "896e8410745df52c1ce5e33868b6b7627faa955b0460618dc7217c415b4f1618"
+    },
+    "subject": [
+      "bottom-gear-a"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of step 3, Bottom Gear A: a numbered panel with the moving part at its start, a red dashed arrow to where it goes, and the added part with its count",
+    "crop": null,
+    "use": "guide",
+    "alt_status": "draft"
+  },
+  {
+    "name": "visual-step-04.png",
+    "group": "visual",
+    "origin": {
+      "kind": "render",
+      "source": "visual-step-04",
+      "sha256": "21a116ab5d2328f2d1d390cb7db31c83e914e3613ce0161fef9c15056ee5d89a",
+      "imported_sha256": "21a116ab5d2328f2d1d390cb7db31c83e914e3613ce0161fef9c15056ee5d89a"
+    },
+    "subject": [
+      "cylinder-b"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of step 4, Cylinder B: a numbered panel with the moving part at its start, a red dashed arrow to where it goes, and the added part with its count",
+    "crop": null,
+    "use": "guide",
+    "alt_status": "draft"
+  },
+  {
+    "name": "visual-step-05.png",
+    "group": "visual",
+    "origin": {
+      "kind": "render",
+      "source": "visual-step-05",
+      "sha256": "bfd28837faa06b3c9a1bc12e4b8ce944868accde348a6fcc35cdd1574eb2531c",
+      "imported_sha256": "bfd28837faa06b3c9a1bc12e4b8ce944868accde348a6fcc35cdd1574eb2531c"
+    },
+    "subject": [
+      "top-gear-b"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of step 5, Top Gear B: a numbered panel with the moving part at its start, a red dashed arrow to where it goes, and the added part with its count",
+    "crop": null,
+    "use": "guide",
+    "alt_status": "draft"
+  },
+  {
+    "name": "visual-step-06.png",
+    "group": "visual",
+    "origin": {
+      "kind": "render",
+      "source": "visual-step-06",
+      "sha256": "4dbdcaeeebbd5f1d3ecfdf52aeedcbad098268466bba8cc6e844c85063610948",
+      "imported_sha256": "4dbdcaeeebbd5f1d3ecfdf52aeedcbad098268466bba8cc6e844c85063610948"
+    },
+    "subject": [
+      "bottom-gear-b"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of step 6, Bottom Gear B: a numbered panel with the moving part at its start, a red dashed arrow to where it goes, and the added part with its count",
+    "crop": null,
+    "use": "guide",
+    "alt_status": "draft"
+  },
+  {
+    "name": "visual-step-07.png",
+    "group": "visual",
+    "origin": {
+      "kind": "render",
+      "source": "visual-step-07",
+      "sha256": "3e821bc244cc694899a1807ad190537db17a3b7b667cd54b0783f588f16c242c",
+      "imported_sha256": "3e821bc244cc694899a1807ad190537db17a3b7b667cd54b0783f588f16c242c"
+    },
+    "subject": [
+      "cylinder-a",
+      "top-gear-a",
+      "bottom-gear-a"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of step 7, Pair the rollers: a numbered panel with the moving part at its start, a red dashed arrow to where it goes, and the added part with its count",
+    "crop": null,
+    "use": "guide",
+    "alt_status": "draft"
+  },
+  {
+    "name": "visual-step-08.png",
+    "group": "visual",
+    "origin": {
+      "kind": "render",
+      "source": "visual-step-08",
+      "sha256": "0721bf9655a0e86228ee033c5bb802ea978397d41c1ce89f52f4f20e492772c3",
+      "imported_sha256": "0721bf9655a0e86228ee033c5bb802ea978397d41c1ce89f52f4f20e492772c3"
+    },
+    "subject": [
+      "cylinder-a",
+      "top-gear-a",
+      "bottom-gear-a",
+      "cylinder-b",
+      "top-gear-b",
+      "bottom-gear-b"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of step 8, Into the Base: a numbered panel with the moving part at its start, a red dashed arrow to where it goes, and the added part with its count",
+    "crop": null,
+    "use": "guide",
+    "alt_status": "draft"
+  },
+  {
+    "name": "visual-step-09.png",
+    "group": "visual",
+    "origin": {
+      "kind": "render",
+      "source": "visual-step-09",
+      "sha256": "2ca6448733313a27ef3b45b0f0ec934a6426204b01228788d3b5d760d76788a5",
+      "imported_sha256": "2ca6448733313a27ef3b45b0f0ec934a6426204b01228788d3b5d760d76788a5"
+    },
+    "subject": [
+      "knob"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of step 9, Knob: a numbered panel with the moving part at its start, a red dashed arrow to where it goes, and the added part with its count",
+    "crop": null,
+    "use": "guide",
+    "alt_status": "draft"
+  },
+  {
+    "name": "visual-step-10.png",
+    "group": "visual",
+    "origin": {
+      "kind": "render",
+      "source": "visual-step-10",
+      "sha256": "8abaf389b2ed4d2b0bc9eab274d4694d9363af061ce2da38576ed16a16ac9426",
+      "imported_sha256": "8abaf389b2ed4d2b0bc9eab274d4694d9363af061ce2da38576ed16a16ac9426"
+    },
+    "subject": [
+      "lid"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of step 10, Lid: a numbered panel with the moving part at its start, a red dashed arrow to where it goes, and the added part with its count",
+    "crop": null,
+    "use": "guide",
+    "alt_status": "draft"
+  },
+  {
+    "name": "visual-step-11.png",
+    "group": "visual",
+    "origin": {
+      "kind": "render",
+      "source": "visual-step-11",
+      "sha256": "3390ac7a78ac2744cd3d5df41075580942e3bd132e52dfac8f7105483f59f078",
+      "imported_sha256": "3390ac7a78ac2744cd3d5df41075580942e3bd132e52dfac8f7105483f59f078"
+    },
+    "subject": [
+      "handle"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of step 11, Handle: a numbered panel with the moving part at its start, a red dashed arrow to where it goes, and the added part with its count",
+    "crop": null,
+    "use": "guide",
+    "alt_status": "draft"
+  },
+  {
+    "name": "visual-step-12.png",
+    "group": "visual",
+    "origin": {
+      "kind": "render",
+      "source": "visual-step-12",
+      "sha256": "8c959f1968be50b46ce94492bbf297939f177510678721fb1c1c24e597649dae",
+      "imported_sha256": "8c959f1968be50b46ce94492bbf297939f177510678721fb1c1c24e597649dae"
+    },
+    "subject": [
+      "cylinder-a",
+      "top-gear-a",
+      "bottom-gear-a",
+      "cylinder-b",
+      "top-gear-b",
+      "bottom-gear-b",
+      "base",
+      "knob",
+      "lid",
+      "handle"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of step 12, Turn to test: a numbered panel with the moving part at its start, a red dashed arrow to where it goes, and the added part with its count",
+    "crop": null,
+    "use": "guide",
+    "alt_status": "draft"
+  },
+  {
+    "name": "screen-web-01-open.png",
+    "group": "screens",
+    "origin": {
+      "kind": "render",
+      "source": "screen-web-01-open",
+      "sha256": "a147f7527ce2f88ecc8142cce93aeb5312c0931065612a94c422d9544b34743c",
+      "imported_sha256": "a147f7527ce2f88ecc8142cce93aeb5312c0931065612a94c422d9544b34743c"
+    },
+    "subject": [
+      "cylinder-a",
+      "cylinder-b"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of the generator's page as it opens, the Embosser setup choices at the top of the form",
+    "crop": null,
+    "use": "guide",
+    "alt_status": "draft"
+  },
+  {
+    "name": "screen-web-02-version-2.png",
+    "group": "screens",
+    "origin": {
+      "kind": "render",
+      "source": "screen-web-02-version-2",
+      "sha256": "edffb382e9d748738fbfc4d4b1eb173e63bfea64221ccee01e29674ef141a44d",
+      "imported_sha256": "edffb382e9d748738fbfc4d4b1eb173e63bfea64221ccee01e29674ef141a44d"
+    },
+    "subject": [
+      "cylinder-a",
+      "cylinder-b"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of the Embosser version choice with Version 2 chosen",
+    "crop": null,
+    "use": "guide",
+    "alt_status": "draft"
+  },
+  {
+    "name": "screen-web-03-sides-and-gears.png",
+    "group": "screens",
+    "origin": {
+      "kind": "render",
+      "source": "screen-web-03-sides-and-gears",
+      "sha256": "e67b3435618f49c73015e5bae7617fb417d42836dee534e7b52c21b3adee95bc",
+      "imported_sha256": "e67b3435618f49c73015e5bae7617fb417d42836dee534e7b52c21b3adee95bc"
+    },
+    "subject": [
+      "cylinder-a",
+      "cylinder-b"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of the Card sides and Gears choices at their defaults, single-sided and standard gears",
+    "crop": null,
+    "use": "guide",
+    "alt_status": "draft"
+  },
+  {
+    "name": "screen-web-04-text.png",
+    "group": "screens",
+    "origin": {
+      "kind": "render",
+      "source": "screen-web-04-text",
+      "sha256": "6384312e6ad2e2417a912acfcff2412c04876581e262e62868756adb1d8ac595",
+      "imported_sha256": "6384312e6ad2e2417a912acfcff2412c04876581e262e62868756adb1d8ac595"
+    },
+    "subject": [
+      "cylinder-a",
+      "cylinder-b"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of the text box with Washington typed in it, automatic placement chosen",
+    "crop": null,
+    "use": "guide",
+    "alt_status": "draft"
+  },
+  {
+    "name": "screen-web-05-language.png",
+    "group": "screens",
+    "origin": {
+      "kind": "render",
+      "source": "screen-web-05-language",
+      "sha256": "4e765bbd3dd6bb44acb760b51e5d9bea9c8263a07c93370a690e3140c84507ac",
+      "imported_sha256": "4e765bbd3dd6bb44acb760b51e5d9bea9c8263a07c93370a690e3140c84507ac"
+    },
+    "subject": [
+      "cylinder-a",
+      "cylinder-b"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of the language and grade list, English UEB grade 2",
+    "crop": null,
+    "use": "guide",
+    "alt_status": "draft"
+  },
+  {
+    "name": "screen-web-06-translate.png",
+    "group": "screens",
+    "origin": {
+      "kind": "render",
+      "source": "screen-web-06-translate",
+      "sha256": "8e4f310b8ecd727fb646994a5a357f5669588b2599a67a24ef8bc9297251f94e",
+      "imported_sha256": "8e4f310b8ecd727fb646994a5a357f5669588b2599a67a24ef8bc9297251f94e"
+    },
+    "subject": [
+      "cylinder-a",
+      "cylinder-b"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of the Translate to Braille button and the braille field filled with the translation",
+    "crop": null,
+    "use": "guide",
+    "alt_status": "draft"
+  },
+  {
+    "name": "screen-web-07-expert-mode.png",
+    "group": "screens",
+    "origin": {
+      "kind": "render",
+      "source": "screen-web-07-expert-mode",
+      "sha256": "6ee0c1609bb15be1686abd13f2c628a0885a0b1ab54ef90f2262d9e0503351e0",
+      "imported_sha256": "6ee0c1609bb15be1686abd13f2c628a0885a0b1ab54ef90f2262d9e0503351e0"
+    },
+    "subject": [
+      "cylinder-a",
+      "cylinder-b"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of the Show Expert Mode button opened, with the Card Thickness submenu below it",
+    "crop": null,
+    "use": "guide",
+    "alt_status": "draft"
+  },
+  {
+    "name": "screen-web-08-card-thickness.png",
+    "group": "screens",
+    "origin": {
+      "kind": "render",
+      "source": "screen-web-08-card-thickness",
+      "sha256": "39aac31e2d4c273e76bfa42b65b2fdb1288b3b1afd314864c2b697b743c37d21",
+      "imported_sha256": "39aac31e2d4c273e76bfa42b65b2fdb1288b3b1afd314864c2b697b743c37d21"
+    },
+    "subject": [
+      "cylinder-a",
+      "cylinder-b"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of the Card Thickness choices, 0.4 mm, 0.3 mm and custom",
+    "crop": null,
+    "use": "guide",
+    "alt_status": "draft"
+  },
+  {
+    "name": "screen-web-09-generate.png",
+    "group": "screens",
+    "origin": {
+      "kind": "render",
+      "source": "screen-web-09-generate",
+      "sha256": "74ee67c695dfb5772af641dcc9106a1f84709bc407ecc4990fa28dfed73a26ca",
+      "imported_sha256": "74ee67c695dfb5772af641dcc9106a1f84709bc407ecc4990fa28dfed73a26ca"
+    },
+    "subject": [
+      "cylinder-a",
+      "cylinder-b"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of the Generate STL button",
+    "crop": null,
+    "use": "guide",
+    "alt_status": "draft"
+  },
+  {
+    "name": "screen-web-10-preview.png",
+    "group": "screens",
+    "origin": {
+      "kind": "render",
+      "source": "screen-web-10-preview",
+      "sha256": "05c86f363c8bd86d29cd613b67cd134aa57a89ec7baa27a69cff021890f93f94",
+      "imported_sha256": "05c86f363c8bd86d29cd613b67cd134aa57a89ec7baa27a69cff021890f93f94"
+    },
+    "subject": [
+      "cylinder-a",
+      "cylinder-b"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of the 3D preview of the two generated cylinders and the status line under it",
+    "crop": null,
+    "use": "guide",
+    "alt_status": "draft"
+  },
+  {
+    "name": "screen-web-11-download.png",
+    "group": "screens",
+    "origin": {
+      "kind": "render",
+      "source": "screen-web-11-download",
+      "sha256": "39866bb150d119dde6ef2d288955b965837ff8e765252f4b79d0922c3febe9be",
+      "imported_sha256": "39866bb150d119dde6ef2d288955b965837ff8e765252f4b79d0922c3febe9be"
+    },
+    "subject": [
+      "cylinder-a",
+      "cylinder-b"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of the Download STL button after a successful run",
+    "crop": null,
+    "use": "guide",
+    "alt_status": "draft"
+  },
+  {
+    "name": "screen-web-12-double-sided.png",
+    "group": "screens",
+    "origin": {
+      "kind": "render",
+      "source": "screen-web-12-double-sided",
+      "sha256": "e4a5375097c926c7b5ea2f4532f3e6533de0187a04639be8e6403a1dec9a66d7",
+      "imported_sha256": "e4a5375097c926c7b5ea2f4532f3e6533de0187a04639be8e6403a1dec9a66d7"
+    },
+    "subject": [
+      "cylinder-a",
+      "cylinder-b"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of Double-sided chosen and the Back of Card text box it unlocks",
+    "crop": null,
+    "use": "guide",
+    "alt_status": "draft"
+  },
+  {
+    "name": "screen-web-13-one-piece-rollers.png",
+    "group": "screens",
+    "origin": {
+      "kind": "render",
+      "source": "screen-web-13-one-piece-rollers",
+      "sha256": "c9241abd5d3bc5a6b853c6db5355a10811c014c5167e53fe0000df9f28798993",
+      "imported_sha256": "c9241abd5d3bc5a6b853c6db5355a10811c014c5167e53fe0000df9f28798993"
+    },
+    "subject": [
+      "cylinder-a",
+      "cylinder-b"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of the Gears choice set to one-piece rollers",
+    "crop": null,
+    "use": "guide",
+    "alt_status": "draft"
+  },
+  {
+    "name": "screen-osc-01-window.png",
+    "group": "screens",
+    "origin": {
+      "kind": "render",
+      "source": "screen-osc-01-window",
+      "sha256": "9851a963adce07de23c0f427e1670b32fe95e176bf7b78dd9cfc114eb37e4c48",
+      "imported_sha256": "9851a963adce07de23c0f427e1670b32fe95e176bf7b78dd9cfc114eb37e4c48"
+    },
+    "subject": [
+      "cylinder-a",
+      "cylinder-b"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of the whole OpenSCAD window with the generator open: the Editor, the preview, the Customizer and the Console marked",
+    "crop": null,
+    "use": "guide",
+    "alt_status": "draft"
+  },
+  {
+    "name": "screen-osc-02-toolbar.png",
+    "group": "screens",
+    "origin": {
+      "kind": "render",
+      "source": "screen-osc-02-toolbar",
+      "sha256": "eb6f3b24b6335fdca22397fb372c1dc09ae51e6f4ba7225b667bc1f608013915",
+      "imported_sha256": "eb6f3b24b6335fdca22397fb372c1dc09ae51e6f4ba7225b667bc1f608013915"
+    },
+    "subject": [
+      "cylinder-a",
+      "cylinder-b"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of the Editor's toolbar with the Preview, Render and Export as STL buttons marked",
+    "crop": null,
+    "use": "guide",
+    "alt_status": "draft"
+  },
+  {
+    "name": "screen-osc-03-text-lines.png",
+    "group": "screens",
+    "origin": {
+      "kind": "render",
+      "source": "screen-osc-03-text-lines",
+      "sha256": "57db8f9b70881ea06776c65cf9ceededaeab5df88fcfa8fd22ff7b89476bbc25",
+      "imported_sha256": "57db8f9b70881ea06776c65cf9ceededaeab5df88fcfa8fd22ff7b89476bbc25"
+    },
+    "subject": [
+      "cylinder-a",
+      "cylinder-b"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of the Customizer's Text Input group: its title, then Line 1 marked, with the hint that names the translator and the field holding braille",
+    "crop": null,
+    "use": "guide",
+    "alt_status": "draft"
+  },
+  {
+    "name": "screen-osc-04-choices.png",
+    "group": "screens",
+    "origin": {
+      "kind": "render",
+      "source": "screen-osc-04-choices",
+      "sha256": "54ced2cd76784895928a293c7ff8ce91a91d3bdfeb0f283ad6c4c7797ed65bfb",
+      "imported_sha256": "54ced2cd76784895928a293c7ff8ce91a91d3bdfeb0f283ad6c4c7797ed65bfb"
+    },
+    "subject": [
+      "cylinder-a",
+      "cylinder-b"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of the Customizer's first two groups, Gears and Card Sides, with the integrated gears and double sided settings marked whole, both lists at Off",
+    "crop": null,
+    "use": "guide",
+    "alt_status": "draft"
+  },
+  {
+    "name": "screen-osc-05-card-thickness.png",
+    "group": "screens",
+    "origin": {
+      "kind": "render",
+      "source": "screen-osc-05-card-thickness",
+      "sha256": "242a0aba1cca827be190545d115b8564dd0ba5bc76269ddbd8b94f279eea60ae",
+      "imported_sha256": "242a0aba1cca827be190545d115b8564dd0ba5bc76269ddbd8b94f279eea60ae"
+    },
+    "subject": [
+      "cylinder-a",
+      "cylinder-b"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of the Customizer's Expert Mode - Card Thickness group with the paper thickness preset setting marked, its list at 0.4mm",
+    "crop": null,
+    "use": "guide",
+    "alt_status": "draft"
+  },
+  {
+    "name": "screen-osc-06-preview.png",
+    "group": "screens",
+    "origin": {
+      "kind": "render",
+      "source": "screen-osc-06-preview",
+      "sha256": "457dc600d4d39d9acc06ecced66c4445c8302cc64fc4af1fcc620b89a614fc8a",
+      "imported_sha256": "457dc600d4d39d9acc06ecced66c4445c8302cc64fc4af1fcc620b89a614fc8a"
+    },
+    "subject": [
+      "cylinder-a",
+      "cylinder-b"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of the preview after F5, close up: the two cylinders side by side, raised dots on Cylinder A and dimples on Cylinder B",
+    "crop": null,
+    "use": "guide",
+    "alt_status": "draft"
+  },
+  {
+    "name": "screen-osc-07-console.png",
+    "group": "screens",
+    "origin": {
+      "kind": "render",
+      "source": "screen-osc-07-console",
+      "sha256": "19ac1c30fcfd31c1cf6ea5d47bf6275b9ff338a6048e9461b0146f95a3d2e8f5",
+      "imported_sha256": "19ac1c30fcfd31c1cf6ea5d47bf6275b9ff338a6048e9461b0146f95a3d2e8f5"
+    },
+    "subject": [
+      "cylinder-a",
+      "cylinder-b"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of the Console after a preview, with Compile and preview finished near its end",
+    "crop": null,
+    "use": "guide",
+    "alt_status": "draft"
+  },
+  {
+    "name": "screen-branah-01-type.png",
+    "group": "screens",
+    "origin": {
+      "kind": "render",
+      "source": "screen-branah-01-type",
+      "sha256": "b363dde671e60e2bf9e2917ddfcbcd02d233df8551305a03fc0be653f1dd9d82",
+      "imported_sha256": "b363dde671e60e2bf9e2917ddfcbcd02d233df8551305a03fc0be653f1dd9d82"
+    },
+    "subject": [
+      "cylinder-a",
+      "cylinder-b"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of the translator with Washington typed in the English box; the Grade 2 and Unicode choices and the Translate button marked",
+    "crop": null,
+    "use": "guide",
+    "alt_status": "draft"
+  },
+  {
+    "name": "screen-branah-02-copy.png",
+    "group": "screens",
+    "origin": {
+      "kind": "render",
+      "source": "screen-branah-02-copy",
+      "sha256": "97833e4307052cf539d602b93a79195f8bdcf1b8ab3b4bc74a1d1ef82c8893a3",
+      "imported_sha256": "97833e4307052cf539d602b93a79195f8bdcf1b8ab3b4bc74a1d1ef82c8893a3"
+    },
+    "subject": [
+      "cylinder-a",
+      "cylinder-b"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of the translator's Braille box filled with the Unicode braille for Washington, ready to copy",
+    "crop": null,
+    "use": "guide",
+    "alt_status": "draft"
+  },
+  {
+    "name": "render-tactile-assembly-map.png",
+    "group": "renders",
+    "origin": {
+      "kind": "render",
+      "source": "render-tactile-assembly-map",
+      "sha256": "2d677c825c915541227c230c0c26dbaa02a5463dbc4984ec8a6c49a84de542ef",
+      "imported_sha256": "2d677c825c915541227c230c0c26dbaa02a5463dbc4984ec8a6c49a84de542ef"
+    },
+    "subject": [
+      "base",
+      "lid",
+      "knob",
+      "handle",
+      "cylinder-a",
+      "cylinder-b",
+      "top-gear-a",
+      "bottom-gear-a",
+      "top-gear-b",
+      "bottom-gear-b"
+    ],
+    "angle": "three-quarter view from the side the name says",
+    "shows": "Computer rendering of the six plates of the tactile assembly map in a row, each with its shapes, numerals and edge notches in relief and a small sloped braille block standing above every shape",
+    "crop": null,
+    "use": "spare",
+    "alt_status": "reviewed"
+  },
+  {
+    "name": "render-use-01-handle-home.png",
+    "group": "renders",
+    "origin": {
+      "kind": "render",
+      "source": "render-use-01-handle-home",
+      "sha256": "d73d9d8c85c0ac458084488ff2897989034ef34d20df9dae23b889bdb1b66c6b",
+      "imported_sha256": "d73d9d8c85c0ac458084488ff2897989034ef34d20df9dae23b889bdb1b66c6b"
+    },
+    "subject": [
+      "base",
+      "bottom-gear-a",
+      "bottom-gear-b",
+      "cylinder-a",
+      "cylinder-b",
+      "top-gear-a",
+      "top-gear-b",
+      "knob",
+      "lid",
+      "handle"
+    ],
+    "angle": "from the user's seat, in front of the embosser and a little above it",
+    "shows": "Computer rendering of the embosser standing, the Handle at home: its grip level along the Base and pointing to the right",
+    "crop": null,
+    "use": "guide",
+    "alt_status": "none"
+  },
+  {
+    "name": "render-use-02-on-its-side-slit-up.png",
+    "group": "renders",
+    "origin": {
+      "kind": "render",
+      "source": "render-use-02-on-its-side-slit-up",
+      "sha256": "b0fc7e7cc02529af377d8061018f29d5877900455a09e16286dd9fce836a7feb",
+      "imported_sha256": "b0fc7e7cc02529af377d8061018f29d5877900455a09e16286dd9fce836a7feb"
+    },
+    "subject": [
+      "base",
+      "bottom-gear-a",
+      "bottom-gear-b",
+      "cylinder-a",
+      "cylinder-b",
+      "top-gear-a",
+      "top-gear-b",
+      "knob",
+      "lid",
+      "handle"
+    ],
+    "angle": "from the user's seat, in front of the embosser and a little above it",
+    "shows": "Computer rendering of the embosser lying on its side, the foot of the Base at the left, the Lid and Handle at the right, the slit along the top",
+    "crop": null,
+    "use": "guide",
+    "alt_status": "none"
+  },
+  {
+    "name": "render-use-03-card-into-slit.png",
+    "group": "renders",
+    "origin": {
+      "kind": "render",
+      "source": "render-use-03-card-into-slit",
+      "sha256": "d70b08a41daa30b14af94f91a06a92510d105ff4af86085049211aede1e44a3a",
+      "imported_sha256": "d70b08a41daa30b14af94f91a06a92510d105ff4af86085049211aede1e44a3a"
+    },
+    "subject": [
+      "base",
+      "bottom-gear-a",
+      "bottom-gear-b",
+      "cylinder-a",
+      "cylinder-b",
+      "top-gear-a",
+      "top-gear-b",
+      "knob",
+      "lid",
+      "handle"
+    ],
+    "angle": "from the user's seat, in front of the embosser and a little above it",
+    "shows": "Computer rendering of the embosser on its side with a card standing in the slit along the top, a red dashed arrow pointing down into the slit",
+    "crop": null,
+    "use": "guide",
+    "alt_status": "none"
+  },
+  {
+    "name": "render-use-04-half-a-turn.png",
+    "group": "renders",
+    "origin": {
+      "kind": "render",
+      "source": "render-use-04-half-a-turn",
+      "sha256": "263d9f5cd76f5dd50521ad1a12d8b192239f39999a5f3582caeac31732118ff1",
+      "imported_sha256": "263d9f5cd76f5dd50521ad1a12d8b192239f39999a5f3582caeac31732118ff1"
+    },
+    "subject": [
+      "base",
+      "bottom-gear-a",
+      "bottom-gear-b",
+      "cylinder-a",
+      "cylinder-b",
+      "top-gear-a",
+      "top-gear-b",
+      "knob",
+      "lid",
+      "handle"
+    ],
+    "angle": "from the user's seat, in front of the embosser and a little above it",
+    "shows": "Computer rendering of the embosser on its side, the card half way into the slit, a curved red arrow over the Handle showing half a turn",
+    "crop": null,
+    "use": "guide",
+    "alt_status": "none"
+  },
+  {
+    "name": "render-use-05-turned-over-window-up.png",
+    "group": "renders",
+    "origin": {
+      "kind": "render",
+      "source": "render-use-05-turned-over-window-up",
+      "sha256": "f5a2adc2bf2f002f8eb68b6ac6706abecbf42c5801e3b873affdae9d585ffb54",
+      "imported_sha256": "f5a2adc2bf2f002f8eb68b6ac6706abecbf42c5801e3b873affdae9d585ffb54"
+    },
+    "subject": [
+      "base",
+      "bottom-gear-a",
+      "bottom-gear-b",
+      "cylinder-a",
+      "cylinder-b",
+      "top-gear-a",
+      "top-gear-b",
+      "knob",
+      "lid",
+      "handle"
+    ],
+    "angle": "from the user's seat, in front of the embosser and a little above it",
+    "shows": "Computer rendering of the embosser turned over so the window is on top, the card rising out of the window with its dots raised",
+    "crop": null,
+    "use": "guide",
+    "alt_status": "none"
+  },
+  {
+    "name": "render-use-06-roll-between-the-rows.png",
+    "group": "renders",
+    "origin": {
+      "kind": "render",
+      "source": "render-use-06-roll-between-the-rows",
+      "sha256": "4e8988902c373493114bdcb89d752134d34f4c3f80f26eb530d48d02bab73eec",
+      "imported_sha256": "4e8988902c373493114bdcb89d752134d34f4c3f80f26eb530d48d02bab73eec"
+    },
+    "subject": [
+      "base",
+      "bottom-gear-a",
+      "bottom-gear-b",
+      "cylinder-a",
+      "cylinder-b",
+      "top-gear-a",
+      "top-gear-b",
+      "knob",
+      "lid",
+      "handle"
+    ],
+    "angle": "from the user's seat, in front of the embosser and a little above it",
+    "shows": "Computer rendering of the embosser window up, the card most of the way out, a curved red arrow with a head at each end over the Handle: roll back and forward",
+    "crop": null,
+    "use": "guide",
+    "alt_status": "none"
+  },
+  {
+    "name": "render-use-07-card-out.png",
+    "group": "renders",
+    "origin": {
+      "kind": "render",
+      "source": "render-use-07-card-out",
+      "sha256": "1082979b479a3abf13d3763d98fe85de8991c5627431a253da30faa18c687aab",
+      "imported_sha256": "1082979b479a3abf13d3763d98fe85de8991c5627431a253da30faa18c687aab"
+    },
+    "subject": [
+      "base",
+      "bottom-gear-a",
+      "bottom-gear-b",
+      "cylinder-a",
+      "cylinder-b",
+      "top-gear-a",
+      "top-gear-b",
+      "knob",
+      "lid",
+      "handle"
+    ],
+    "angle": "from the user's seat, in front of the embosser and a little above it",
+    "shows": "Computer rendering of the embosser window up and the finished card lying flat in front of it, dots up",
+    "crop": null,
+    "use": "guide",
+    "alt_status": "none"
+  },
+  {
+    "name": "render-use-08-lid-off.png",
+    "group": "renders",
+    "origin": {
+      "kind": "render",
+      "source": "render-use-08-lid-off",
+      "sha256": "5742f63a31d26bb7e4fdefeefe83db85fe9a7143eb67ba367f55990c02edeebb",
+      "imported_sha256": "5742f63a31d26bb7e4fdefeefe83db85fe9a7143eb67ba367f55990c02edeebb"
+    },
+    "subject": [
+      "base",
+      "bottom-gear-a",
+      "bottom-gear-b",
+      "cylinder-a",
+      "cylinder-b",
+      "top-gear-a",
+      "top-gear-b",
+      "knob",
+      "lid",
+      "handle"
+    ],
+    "angle": "from the user's seat, in front of the embosser and a little above it",
+    "shows": "Computer rendering of the embosser standing with the Lid, Knob and Handle lifted straight up off the Base as one piece, a red dashed arrow pointing up from the Lid's edge under the Knob",
+    "crop": null,
+    "use": "guide",
+    "alt_status": "none"
+  },
+  {
+    "name": "visual-user-guide-cover.jpg",
+    "group": "visual",
+    "origin": {
+      "kind": "render",
+      "source": "visual-user-guide-cover",
+      "sha256": "7ec8f80a8cdc1b2647c7b1dd312aedba181111e706e3d6743af332db9c5f25b9",
+      "imported_sha256": "7ec8f80a8cdc1b2647c7b1dd312aedba181111e706e3d6743af332db9c5f25b9"
+    },
+    "subject": [
+      "base",
+      "lid",
+      "knob",
+      "handle",
+      "cylinder-a",
+      "cylinder-b",
+      "top-gear-a",
+      "bottom-gear-a",
+      "top-gear-b",
+      "bottom-gear-b"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of four pictures in a grid: the embosser; a card going into the slit; an embossed card; the rollers out, for a new message",
+    "crop": null,
+    "use": "guide",
+    "alt_status": "none"
+  },
+  {
+    "name": "screen-osc-08-cylinders.png",
+    "group": "screens",
+    "origin": {
+      "kind": "render",
+      "source": "screen-osc-08-cylinders",
+      "sha256": "225ff7ac237939f3be3f5f58ef4b1627d57a8b7526860ac22938903f7b5fe4d7",
+      "imported_sha256": "225ff7ac237939f3be3f5f58ef4b1627d57a8b7526860ac22938903f7b5fe4d7"
+    },
+    "subject": [
+      "cylinder-a",
+      "cylinder-b"
+    ],
+    "angle": "fixed three-quarter view from the left front",
+    "shows": "Computer rendering of the Customizer's Expert Mode - Cylinders to Generate group with the render both plates and plate type settings marked, the first at On",
+    "crop": null,
+    "use": "guide",
+    "alt_status": "draft"
+  }
+]

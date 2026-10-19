@@ -1,0 +1,16 @@
+{
+  "pdf": "Documentation/Custom_Braille_Embosser_V2_Device_Summary.pdf",
+  "pdf_sha256": "ea84319cdff872e21a7ee041356c68c957e3bd7cdb4470b5717c369cc3a45a37",
+  "inputs": {
+    "Documentation/Custom_Braille_Embosser_V2_Device_Summary.md": "0b40bb36e1cea0d3da1b9c868ee721a57e409df87bc50bcc7837fa4d55d31ed5",
+    "Photos/finished/finished-standing.jpg": "58499ae48a09afd0b455b11d2a04657e947425db2bd31cd86af4c1549c636d0d",
+    "Photos/overview/overview-all-parts.jpg": "a1b82d76d0c53d418bc67bd9c5915f75ec9ee1ab5f881c8fd41a40b97d6da9a6",
+    "scripts/build_assembly_guide_pdf.py": "1636d2e0f9112f644997b6d2fc5d62a9f913bc044f702f6b5c6096c58c7b9fdf"
+  },
+  "pages": 7,
+  "bookmarks": 10,
+  "links": 24,
+  "pictures": 2,
+  "captions": 2,
+  "producer": "Skia/PDF m155"
+}

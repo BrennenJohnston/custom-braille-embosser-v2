@@ -1,0 +1,27 @@
+{
+  "pdf": "Documentation/Step_2_Guide_Option_1_Custom_Braille_Embosser_V2_Visual_Assembly_Guide.pdf",
+  "pdf_sha256": "89f1c99c2f54f1506b6b3a25d5395be0fd2f8527372409e0740386e8d7a2da6f",
+  "inputs": {
+    "Documentation/Step_2_Guide_Option_1_Custom_Braille_Embosser_V2_Visual_Assembly_Guide.md": "74a5d43cec1ac2d0fc7da293db27297c18ff4e2f068989b9665f23fea76bbb65",
+    "Photos/visual/visual-parts.png": "1a7a434048c982c7053bf51f5cc4de5df126d99388ab92b574c98702d84bbea3",
+    "Photos/visual/visual-step-01.png": "f10b3c17091e051f7310a750fdfe5354bb0095f417a3e1ced61ff5bb32a64faa",
+    "Photos/visual/visual-step-02.png": "8ab7815b37408a187f183b9bd35d880fc4b4fde82f837a638afc931a69ac9039",
+    "Photos/visual/visual-step-03.png": "896e8410745df52c1ce5e33868b6b7627faa955b0460618dc7217c415b4f1618",
+    "Photos/visual/visual-step-04.png": "21a116ab5d2328f2d1d390cb7db31c83e914e3613ce0161fef9c15056ee5d89a",
+    "Photos/visual/visual-step-05.png": "bfd28837faa06b3c9a1bc12e4b8ce944868accde348a6fcc35cdd1574eb2531c",
+    "Photos/visual/visual-step-06.png": "4dbdcaeeebbd5f1d3ecfdf52aeedcbad098268466bba8cc6e844c85063610948",
+    "Photos/visual/visual-step-07.png": "3e821bc244cc694899a1807ad190537db17a3b7b667cd54b0783f588f16c242c",
+    "Photos/visual/visual-step-08.png": "0721bf9655a0e86228ee033c5bb802ea978397d41c1ce89f52f4f20e492772c3",
+    "Photos/visual/visual-step-09.png": "2ca6448733313a27ef3b45b0f0ec934a6426204b01228788d3b5d760d76788a5",
+    "Photos/visual/visual-step-10.png": "8abaf389b2ed4d2b0bc9eab274d4694d9363af061ce2da38576ed16a16ac9426",
+    "Photos/visual/visual-step-11.png": "3390ac7a78ac2744cd3d5df41075580942e3bd132e52dfac8f7105483f59f078",
+    "Photos/visual/visual-step-12.png": "8c959f1968be50b46ce94492bbf297939f177510678721fb1c1c24e597649dae",
+    "scripts/build_assembly_guide_pdf.py": "1636d2e0f9112f644997b6d2fc5d62a9f913bc044f702f6b5c6096c58c7b9fdf"
+  },
+  "pages": 3,
+  "bookmarks": 3,
+  "links": 1,
+  "pictures": 13,
+  "captions": 1,
+  "producer": "Skia/PDF m154"
+}

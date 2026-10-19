@@ -1,0 +1,41 @@
+{
+  "note": "A verbatim copy of the Embosser Version 2 generator from the OpenSCAD repository, for use without the web app. Never edit these files here; refresh them from upstream and rewrite this record.",
+  "upstream_repository": "https://github.com/BrennenJohnston/braille-cylinder-stl-generator-openscad",
+  "upstream_commit": "705fe9ac835401c2cb7576829ec75a2dd74ac401",
+  "upstream_describe": "v2.12.0",
+  "upstream_commit_date": "2026-10-09",
+  "vendored": "2026-10-19",
+  "license": "PolyForm Noncommercial 1.0.0",
+  "files": {
+    "Braille_Cylinder_STL_Generator_EmbosserV2.scad": {
+      "upstream_path": "Braille_Cylinder_STL_Generator_EmbosserV2.scad",
+      "sha256": "8416f9b96fc429fbbb0e0e361dfda44df3f54fec4213c89c4c0b4d2630ec17a4",
+      "bytes": 181482
+    },
+    "assets/v2_gears_a.stl": {
+      "upstream_path": "assets/v2_gears_a.stl",
+      "sha256": "c5c3b9bcc0f2f8460da50066472c7b7210fa64f7b460d1368c740b6798a78322",
+      "bytes": 1669884
+    },
+    "assets/v2_gears_b.stl": {
+      "upstream_path": "assets/v2_gears_b.stl",
+      "sha256": "99eadfbce8abde1755a7575b8a55dec11b1a5eed06b03319e1823e49759468bc",
+      "bytes": 1662584
+    },
+    "assets/GEARS_PROVENANCE.json": {
+      "upstream_path": "assets/GEARS_PROVENANCE.json",
+      "sha256": "270fa81e24dcd1e027471fd4a8834b580b99b4bbd245ad0422eddb35a11fa090",
+      "bytes": 9252
+    },
+    "LICENSE_PolyForm_Noncommercial_1.0.0.md": {
+      "upstream_path": "LICENSE",
+      "sha256": "befcab57284d9d3ef28eb5ae8961dcd31e36f8163bd5f6de7c6fca0272eef636",
+      "bytes": 4853
+    },
+    "CHANGELOG.md": {
+      "upstream_path": "CHANGELOG.md",
+      "sha256": "afe041f79a2a0b9b06611ee4caa6a1f03e57258f66f6011d36e3f610dadc8fba",
+      "bytes": 93265
+    }
+  }
+}

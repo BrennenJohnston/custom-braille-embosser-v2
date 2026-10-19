@@ -1,0 +1,27 @@
+{
+  "pdf": "Documentation/Step_1_Guide_Option_1_Custom_Braille_Embosser_V2_Web_Generator_Guide.pdf",
+  "pdf_sha256": "1e9253dfbc5c7f5569f9cc191948cb072e3c6b8995286052cc3ac05433941968",
+  "inputs": {
+    "Documentation/Step_1_Guide_Option_1_Custom_Braille_Embosser_V2_Web_Generator_Guide.md": "b143ae15e36b211adec427837b846b318c8c5085d431645761a9aea16efa4210",
+    "Photos/screens/screen-web-01-open.png": "a147f7527ce2f88ecc8142cce93aeb5312c0931065612a94c422d9544b34743c",
+    "Photos/screens/screen-web-02-version-2.png": "edffb382e9d748738fbfc4d4b1eb173e63bfea64221ccee01e29674ef141a44d",
+    "Photos/screens/screen-web-03-sides-and-gears.png": "e67b3435618f49c73015e5bae7617fb417d42836dee534e7b52c21b3adee95bc",
+    "Photos/screens/screen-web-04-text.png": "6384312e6ad2e2417a912acfcff2412c04876581e262e62868756adb1d8ac595",
+    "Photos/screens/screen-web-05-language.png": "4e765bbd3dd6bb44acb760b51e5d9bea9c8263a07c93370a690e3140c84507ac",
+    "Photos/screens/screen-web-06-translate.png": "8e4f310b8ecd727fb646994a5a357f5669588b2599a67a24ef8bc9297251f94e",
+    "Photos/screens/screen-web-07-expert-mode.png": "6ee0c1609bb15be1686abd13f2c628a0885a0b1ab54ef90f2262d9e0503351e0",
+    "Photos/screens/screen-web-08-card-thickness.png": "39aac31e2d4c273e76bfa42b65b2fdb1288b3b1afd314864c2b697b743c37d21",
+    "Photos/screens/screen-web-09-generate.png": "74ee67c695dfb5772af641dcc9106a1f84709bc407ecc4990fa28dfed73a26ca",
+    "Photos/screens/screen-web-10-preview.png": "05c86f363c8bd86d29cd613b67cd134aa57a89ec7baa27a69cff021890f93f94",
+    "Photos/screens/screen-web-11-download.png": "39866bb150d119dde6ef2d288955b965837ff8e765252f4b79d0922c3febe9be",
+    "Photos/screens/screen-web-12-double-sided.png": "e4a5375097c926c7b5ea2f4532f3e6533de0187a04639be8e6403a1dec9a66d7",
+    "Photos/screens/screen-web-13-one-piece-rollers.png": "c9241abd5d3bc5a6b853c6db5355a10811c014c5167e53fe0000df9f28798993",
+    "scripts/build_assembly_guide_pdf.py": "1636d2e0f9112f644997b6d2fc5d62a9f913bc044f702f6b5c6096c58c7b9fdf"
+  },
+  "pages": 7,
+  "bookmarks": 15,
+  "links": 16,
+  "pictures": 13,
+  "captions": 13,
+  "producer": "Skia/PDF m154"
+}

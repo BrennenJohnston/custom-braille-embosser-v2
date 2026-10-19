@@ -1,0 +1,23 @@
+# Consistent line endings on every platform
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.txt text eol=lf
+*.csv text eol=lf
+*.ini text eol=lf
+
+# Byte for byte: tests/test_assembly_guide_pdf.py checks the PDF's SHA-256,
+# and the STL, 3MF and picture files are checked against their masters.
+*.pdf binary
+*.stl binary
+*.3mf binary
+*.jpg binary
+*.png binary
+
+# The copied generator files are byte-provenance-tracked: each folder's
+# VENDORED.json records a SHA-256 per file, the upstream repository's own
+# bytes (LF). Line-ending conversion on a Windows checkout would change those
+# bytes for no real reason, so Git keeps them exactly as committed.
+Build_Files/3D_Printing_Files/Embossing_Plates_Customizer/**/*.scad -text
