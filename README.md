@@ -89,7 +89,7 @@ This repository describes Open Hardware:
 - All software, including the scripts in `scripts/` and `tests/`, is under the [GNU General Public License v3.0 or later (GPL-3.0-or-later)](https://www.gnu.org/licenses/gpl.html).
 - Accompanying material such as the guides, photographs and videos is published under a [Creative Commons Attribution-ShareAlike 4.0 license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
 
-The web-based cylinder generator at <https://braille-cylinder-stl-generator.vercel.app> is a separate project under its own license (PolyForm Noncommercial 1.0.0).
+The web-based cylinder generator at <https://braille-cylinder-stl-generator.vercel.app> is a separate project under its own license (PolyForm Noncommercial 1.0.0). The OpenSCAD generator files copied into [`Build_Files/3D_Printing_Files/Embossing_Plates_Customizer/`](/Build_Files/3D_Printing_Files/Embossing_Plates_Customizer) come from [braille-cylinder-stl-generator-openscad](https://github.com/BrennenJohnston/braille-cylinder-stl-generator-openscad) and are under PolyForm Noncommercial 1.0.0 as well, in [`LICENSE_PolyForm_Noncommercial_1.0.0.md`](/Build_Files/3D_Printing_Files/Embossing_Plates_Customizer/OpenSCAD_Offline_Alternative/LICENSE_PolyForm_Noncommercial_1.0.0.md).
 
 You may redistribute and modify this documentation and make products using it under the terms of the [CERN-OHL-W v2](https://cern.ch/cern-ohl).
 This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.
